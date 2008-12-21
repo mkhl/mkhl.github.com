@@ -1,0 +1,10 @@
+---
+layout: default
+title: Martin Kühl
+---
+|>. *Name*:|<. Martin Kühl|
+|>. *Email*:|<. <script type="text/javascript">document.write("znegva\056xhruy\100tznvy\056pbz".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));</script>|
+|>. *Location*:|<. Germany|
+|>. *Twitter*:|<. "http://twitter.com/mkhl":http://twitter.com/mkhl|
+|>. *GitHub*:|<. "http://github.com/mkhl":http://github.com/mkhl|
+|>. *Ohloh*:|<. "http://ohloh.net/accounts/mkhl":http://ohloh.net/accounts/mkhl|
