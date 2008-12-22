@@ -18,6 +18,7 @@ p<>. His favourite monospaced fonts are "Terminus":terminus and "Inconsolata":in
 
 h3. Open-Source Involvement
 
+* "Io":io
 * "Maude Bundle":maude-bundle for "TextMate":textmate
 * "Nu":nu
 * "Rubinius":rubinius
@@ -55,6 +56,7 @@ p<. Germany
 [humane-interface]http://rchi.raskincenter.org/index.php?title=Core_Principles
 [humane-programming]http://hkn.eecs.berkeley.edu/~dyoo/programming/human.html
 [inconsolata]http://levien.com/type/myfonts/inconsolata.html
+[io]http://iolanguage.com/
 [less-is-more]http://www.designboom.com/portrait/mies.html
 [maude-bundle]http://svn.textmate.org/trunk/Review/Bundles/Maude.tmbundle/
 [nu]http://programming.nu/
