@@ -7,11 +7,11 @@ h2. About Martin
 
 p<>. Martin Kühl is a software developer from Germany with an interest in computer languages and development tools. He is currently a student of informatics at the "University of Bremen":uni-bremen specializing in formal methods of software development and working on his thesis project.
 
-p<>. He enjoys using--and developing on--both Linux and Mac OS X, learning about and using interesting technologies, and searching for the Quality Without a Name.
+p<>. He enjoys using--and developing on--both Linux and Mac OS X, learning about and applying interesting technologies, and searching for the "Quality Without a Name":qwan.
 
-p<>. Martin believes that less is more, that worse is better, and that code must speak for itself.
+p<>. Martin believes that "your data is sacred":humane-interface, that "less is more":less-is-more, that "worse is better":worse-is-better, that "there is no silver bullet":silver-bullet, and that code "must speak for itself":humane-programming.
 
-p<>. His favourite monospaced fonts are "Terminus":terminus and "Inconsolata":inconsolata.
+p<>. His favourite monospaced fonts are "Terminus":terminus and "Inconsolata":inconsolata.  He writes code in "TextMate":textmate, manages versioning with "Git":git, and enters commands into the "Z Shell":zsh.
 
 <hr />
 
@@ -49,16 +49,24 @@ p<. Germany
 </div>
 
 
+[git]http://git-scm.org/
 [github]http://github.com/mkhl
+[humane-interface]http://rchi.raskincenter.org/index.php?title=Core_Principles
+[humane-programming]http://hkn.eecs.berkeley.edu/~dyoo/programming/human.html
 [inconsolata]http://levien.com/type/myfonts/inconsolata.html
+[less-is-more]http://www.designboom.com/portrait/mies.html
 [maude-bundle]http://svn.textmate.org/trunk/Review/Bundles/Maude.tmbundle/
 [nu]http://programming.nu/
 [ohloh]http://ohloh.net/accounts/mkhl
 [pabbrev]http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html
+[qwan]http://www.munnecke.com/islands/qwan.htm
 [rubinius]http://rubini.us/
 [samba4]http://samba.org/samba/devel/
+[silver-bullet]http://www.virtualschool.edu/mon/SoftwareEngineering/BrooksNoSilverBullet.html
 [sxemacs]http://sxemacs.org/
 [terminus]http://www.is-vn.bg/hamster/
 [textmate]http://macromates.com/
 [twitter]http://twitter.com/mkhl
 [uni-bremen]http://www.informatik.uni-bremen.de/
+[worse-is-better]http://www.dreamsongs.org/WIB.html
+[zsh]http://www.zsh.org/
