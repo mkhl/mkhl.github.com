@@ -2,9 +2,61 @@
 layout: default
 title: Martin Kühl
 ---
-|>. *Name*:|<. Martin Kühl|
-|>. *Email*:|<. <script type="text/javascript">document.write("znegva\056xhruy\100tznvy\056pbz".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));</script>|
-|>. *Location*:|<. Germany|
-|>. *Twitter*:|<. "http://twitter.com/mkhl":http://twitter.com/mkhl|
-|>. *GitHub*:|<. "http://github.com/mkhl":http://github.com/mkhl|
-|>. *Ohloh*:|<. "http://ohloh.net/accounts/mkhl":http://ohloh.net/accounts/mkhl|
+
+h2. About Martin
+
+p<>. Martin Kühl is a software developer from Germany with an interest in computer languages and development tools. He is currently a student of informatics at the "University of Bremen":uni-bremen specializing in formal methods of software development and working on his thesis project.
+
+p<>. He enjoys using--and developing on--both Linux and Mac OS X, learning about and using interesting technologies, and searching for the Quality Without a Name.
+
+p<>. Martin believes that less is more, that worse is better, and that code must speak for itself.
+
+p<>. His favourite monospaced fonts are "Terminus":terminus and "Inconsolata":inconsolata.
+
+<hr />
+
+
+h3. Open-Source Involvement
+
+* "Maude Bundle":maude-bundle for "TextMate":textmate
+* "Nu":nu
+* "Rubinius":rubinius
+* "Samba 4":samba4
+* "SXEmacs":sxemacs
+* "PAbbrev":pabbrev
+
+<hr />
+
+
+h3. Further Information
+
+<div class="pull-2 span-2">
+p>. *Email*
+    *Location*
+    *Twitter*
+    *GitHub*
+    *Ohloh*
+</div>
+
+<div class="last">
+<script type="text/javascript">document.write("znegva\056xhruy\100tznvy\056pbz".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));</script>
+p<. Germany
+    "http://twitter.com/mkhl":twitter
+    "http://github.com/mkhl":github
+    "http://ohloh.net/accounts/mkhl":ohloh
+</div>
+
+
+[github]http://github.com/mkhl
+[inconsolata]http://levien.com/type/myfonts/inconsolata.html
+[maude-bundle]http://svn.textmate.org/trunk/Review/Bundles/Maude.tmbundle/
+[nu]http://programming.nu/
+[ohloh]http://ohloh.net/accounts/mkhl
+[pabbrev]http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html
+[rubinius]http://rubini.us/
+[samba4]http://samba.org/samba/devel/
+[sxemacs]http://sxemacs.org/
+[terminus]http://www.is-vn.bg/hamster/
+[textmate]http://macromates.com/
+[twitter]http://twitter.com/mkhl
+[uni-bremen]http://www.informatik.uni-bremen.de/
