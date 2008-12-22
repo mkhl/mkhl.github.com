@@ -39,7 +39,9 @@ p>. *Email*
 </div>
 
 <div class="last">
-<script type="text/javascript">document.write("znegva\056xhruy\100tznvy\056pbz".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));</script>
+<script type="text/javascript"><!--
+document.write("znegva\056xhruy\100tznvy\056pbz".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+--></script>
 p<. Germany
     "http://twitter.com/mkhl":twitter
     "http://github.com/mkhl":github
