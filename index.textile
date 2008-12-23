@@ -58,7 +58,7 @@ p<. Germany
 [inconsolata]http://levien.com/type/myfonts/inconsolata.html
 [io]http://iolanguage.com/
 [less-is-more]http://www.designboom.com/portrait/mies.html
-[maude-bundle]http://svn.textmate.org/trunk/Review/Bundles/Maude.tmbundle/
+[maude-bundle]http://github.com/mkhl/maude-tmbundle
 [nu]http://programming.nu/
 [ohloh]http://ohloh.net/accounts/mkhl
 [pabbrev]http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html
