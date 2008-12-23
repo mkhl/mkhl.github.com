@@ -9,13 +9,13 @@ p<>. Martin Kühl is a software developer from Germany with an interest in compu
 
 p<>. He enjoys using--and developing on--both Linux and Mac OS X, learning about and applying interesting technologies, and searching for the "Quality Without a Name":qwan.
 
-p<>. Martin believes that "your data is sacred":humane-interface, that "less is more":less-is-more, that "worse is better":worse-is-better, that "there is no silver bullet":silver-bullet, and that code "must speak for itself":humane-programming.
+p<>. Martin believes that "less is more":less-is-more, that "worse is better":worse-is-better, that "there is no silver bullet":silver-bullet, and that code "must speak for itself":humane-programming.
 
 p<>. His favourite monospaced fonts are "Terminus":terminus and "Inconsolata":inconsolata.  He writes code in "TextMate":textmate, manages versioning with "Git":git, and enters commands into the "Z Shell":zsh.
 
 <hr />
 
-
+<div class="span-7">
 h3. Open-Source Involvement
 
 * "Io":io
@@ -25,7 +25,19 @@ h3. Open-Source Involvement
 * "Samba 4":samba4
 * "SXEmacs":sxemacs
 * "PAbbrev":pabbrev
+</div>
 
+<div class="span-7 last">
+h3. Inspiration
+
+* "The Humane Interface":humane-interface
+* "Io":io
+* "Morphic":morphic
+* "Plan 9":plan-9
+* "Quicksilver":quicksilver
+* "Scheme":scheme
+* "Smalltalk":smalltalk
+</div>
 <hr />
 
 
@@ -59,13 +71,18 @@ p<. Germany
 [io]http://iolanguage.com/
 [less-is-more]http://www.designboom.com/portrait/mies.html
 [maude-bundle]http://github.com/mkhl/maude-tmbundle
+[morphic]http://www.pdfmenot.com/view/http://ftp.squeak.org/docs/Self-4.0-UI-Framework.pdf
 [nu]http://programming.nu/
 [ohloh]http://ohloh.net/accounts/mkhl
 [pabbrev]http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html
+[plan-9]http://plan9.bell-labs.com/plan9/
+[quicksilver]http://docs.blacktree.com/quicksilver/what_is_quicksilver
 [qwan]http://www.munnecke.com/islands/qwan.htm
 [rubinius]http://rubini.us/
 [samba4]http://samba.org/samba/devel/
+[scheme]http://schemers.org/
 [silver-bullet]http://www.virtualschool.edu/mon/SoftwareEngineering/BrooksNoSilverBullet.html
+[smalltalk]http://www.smalltalk.org/
 [sxemacs]http://sxemacs.org/
 [terminus]http://www.is-vn.bg/hamster/
 [textmate]http://macromates.com/
