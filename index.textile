@@ -18,6 +18,7 @@ p<>. His favourite monospaced fonts are "Terminus":terminus and "Inconsolata":in
 <div class="span-7">
 h3. Open-Source Involvement
 
+* "Hets":hets
 * "Io":io
 * "Maude Bundle":maude-bundle for "TextMate":textmate
 * "Nu":nu
@@ -32,7 +33,7 @@ h3. Inspiration
 
 * "The Humane Interface":humane-interface
 * "Io":io
-* "Morphic":morphic
+* "jQuery":jquery
 * "Plan 9":plan-9
 * "Quicksilver":quicksilver
 * "Scheme":scheme
@@ -65,10 +66,12 @@ p<. Germany
 
 [git]http://git-scm.org/
 [github]http://github.com/mkhl
+[hets]http://www.informatik.uni-bremen.de/cofi/hets/
 [humane-interface]http://rchi.raskincenter.org/index.php?title=Core_Principles
 [humane-programming]http://hkn.eecs.berkeley.edu/~dyoo/programming/human.html
 [inconsolata]http://levien.com/type/myfonts/inconsolata.html
 [io]http://iolanguage.com/
+[jquery]http://jquery.com/
 [less-is-more]http://www.designboom.com/portrait/mies.html
 [maude-bundle]http://github.com/mkhl/maude-tmbundle
 [morphic]http://www.pdfmenot.com/view/http://ftp.squeak.org/docs/Self-4.0-UI-Framework.pdf
