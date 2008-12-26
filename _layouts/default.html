@@ -24,7 +24,21 @@
     <div id="sidebar" class="prepend-2 span-5 last">
       <hr class="space">
       <h3>My Repositories</h3>
+      <!--
+        TODO Check whether text content inside a `div` validates.
+      -->
       <div id="repos" class=box></div>
+    </div>
+    <hr />
+    <div id="footer" class="prepend-3 span-14 last">
+      <p class="quiet">
+        <!--
+          TODO Insert Creative-Commons License Link
+        -->
+        &copy; Copyright {{ site.time | date: "%Y" }} Martin K&uuml;hl.
+        Some rights reserved.<br />
+        Last update: {{ site.time | date: "%d%b%Y, %H:%M %Z" }}
+      </p>
     </div>
   </div>
 </body>
