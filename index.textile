@@ -15,7 +15,9 @@ p<>. His favourite monospaced fonts are "Terminus":terminus and "Inconsolata":in
 
 <hr />
 
+
 <div class="span-7">
+
 h3. Open-Source Involvement
 
 * "Hets":hets
@@ -26,9 +28,11 @@ h3. Open-Source Involvement
 * "Samba 4":samba4
 * "SXEmacs":sxemacs
 * "PAbbrev":pabbrev
+
 </div>
 
 <div class="span-7 last">
+
 h3. Inspiration
 
 * "The Humane Interface":humane-interface
@@ -38,21 +42,26 @@ h3. Inspiration
 * "Quicksilver":quicksilver
 * "Scheme":scheme
 * "Smalltalk":smalltalk
+
 </div>
+
 <hr />
 
 
 h3. Further Information
 
 <div class="pull-2 span-2">
+
 p>. *Email*
     *Location*
     *Twitter*
     *GitHub*
     *Ohloh*
+
 </div>
 
 <div class="last">
+
 <script type="text/javascript"><!--
 document.write(
 "<n uers=\"znvygb:znegva\056xhruy\100tznvy\056pbz\">znegva\056xhruy\100tznvy\056pbz<\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
@@ -61,6 +70,7 @@ p<. Germany
     "http://twitter.com/mkhl":twitter
     "http://github.com/mkhl":github
     "http://ohloh.net/accounts/mkhl":ohloh
+
 </div>
 
 

@@ -15,19 +15,18 @@
   <script src="js/github-repos.js" type="text/javascript" />
 </head>
 <body>
-  <a href="http://github.com/mkhl"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+  <div id="github-badge">
+    <a href="http://github.com/mkhl"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+  </div>
   <div class="container">
     <hr class="space" />
     <div id="content" class="prepend-3 span-14">
       {{ content }}
     </div>
     <div id="sidebar" class="prepend-2 span-5 last">
-      <hr class="space">
+      <hr class="space" />
       <h3>My Repositories</h3>
-      <!--
-        TODO Check whether text content inside a `div` validates.
-      -->
-      <div id="repos" class=box></div>
+      <div id="repos" class="box"></div>
     </div>
     <hr />
     <div id="footer" class="prepend-3 span-14 last">
