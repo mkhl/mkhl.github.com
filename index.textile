@@ -52,6 +52,8 @@ h3. Further Information
 
 p>. *Email*
     *Location*
+    *Jabber*
+    *IRC*
     *Twitter*
     *GitHub*
     *Ohloh*
@@ -60,12 +62,15 @@ p>. *Email*
 
 <div class="last">
 
-<script type="text/javascript"><!--
-document.write(
-"<n uers=\"znvygb:znegva\056xhruy\100tznvy\056pbz\">znegva\056xhruy\100tznvy\056pbz<\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
---></script>
-p<. Germany
-    "http://twitter.com/mkhl":twitter
+p<. <script type="text/javascript" charset="utf-8"><!--
+        mail.insertLink("<br />");
+    --></script>
+    Germany
+    <script type="text/javascript" charset="utf-8"><!--
+        mail.insertString("<br />");
+    --></script>
+    perdix on "irc.freenode.net":irc-freenode
+    "@mkhl":twitter
     "http://github.com/mkhl":github
     "http://ohloh.net/accounts/mkhl":ohloh
 
@@ -79,6 +84,7 @@ p<. Germany
 [humane-programming]http://hkn.eecs.berkeley.edu/~dyoo/programming/human.html
 [inconsolata]http://levien.com/type/myfonts/inconsolata.html
 [io]http://iolanguage.com/
+[irc-freenode]irc://irc.freenode.net
 [jquery]http://jquery.com/
 [less-is-more]http://www.designboom.com/portrait/mies.html
 [maude-bundle]http://github.com/mkhl/maude-tmbundle
