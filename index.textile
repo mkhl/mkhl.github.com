@@ -3,7 +3,7 @@ layout: default
 title: Martin Kühl
 ---
 
-h2. About Martin
+h2. About Martin Kühl
 
 p<>. Martin Kühl is a software developer from Germany with an interest in computer languages and development tools. He is currently a student of informatics at the "University of Bremen":uni-bremen specializing in formal methods of software development and working on his thesis project.
 
@@ -46,7 +46,7 @@ h3. Inspiration
 <hr />
 
 
-h3. Further Information
+h3. Contact Information
 
 <div class="pull-2 span-2">
 
