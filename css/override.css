@@ -5,3 +5,4 @@ caption {background:#e8e8e8;}
 .box {-moz-border-radius:5px;-webkit-border-radius:5px;}
 hr {background:#d7d7d7;color:#d7d7d7;}
 hr.space {background:#f9f9f9;color:#f9f9f9;}
+#content p {text-align:justify;}
