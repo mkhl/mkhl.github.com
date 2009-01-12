@@ -8,6 +8,8 @@ $(function() {
         });
 
         repos.sort(function(a, b) {
+            if (a.watchers != b.watchers)
+	            return b.watchers - a.watchers;
             if (a.name < b.name)
                 return -1;
             if (a.name > b.name)
