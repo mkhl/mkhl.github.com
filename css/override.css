@@ -1,6 +1,6 @@
 body {background:#f9f9f9;}
 h1, h2, h3, h4, h5, h6 {font-family:Palatino, "Palatino Linotype", "Hoefler Text", Times, "Times New Roman";}
-ul, ol {margin-left: ;list-style-position: outside;}
+ul, ol {margin-left: 0;list-style-position: outside;}
 caption {background:#e8e8e8;}
 .box {-moz-border-radius:5px;-webkit-border-radius:5px;}
 hr {background:#d7d7d7;color:#d7d7d7;}
