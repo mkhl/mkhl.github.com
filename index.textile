@@ -61,13 +61,9 @@ p>. *Email*
 
 <div class="last">
 
-p<. <script type="text/javascript" charset="utf-8"><!--
-        mail.insertLink("<br />");
-    --></script>
+p<. %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
     Germany
-    <script type="text/javascript" charset="utf-8"><!--
-        mail.insertString("<br />");
-    --></script>
+    %(email)znegva.xhruy@tznvy.pbz%
     perdix on "irc.freenode.net":irc-freenode
     "@mkhl":twitter
     "http://github.com/mkhl":github
