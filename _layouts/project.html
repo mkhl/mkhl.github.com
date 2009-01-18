@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  <title>{{ page.title }}</title>
+  <meta name="author" content="Martin Kühl" />
+  <link rel="stylesheet" href="css/screen.css" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
+  <!--[if IE]>
+    <link rel="stylesheet" href="css/ie.css" type="text/css" media="screen, projection" />
+  <![endif]-->
+  <link rel="stylesheet" href="css/override.css" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="css/syntax.css" type="text/css" media="screen, projection" />
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="http://github.com/jnunemaker/fancy-zoom/raw/master/jquery/js/fancyzoom.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/util.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/insert-email.js" type="text/javascript" charset="utf-8"></script>
+</head>
+<body>
+  <div id="github-badge">
+    <a href="http://github.com/you"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+  </div>
+  <div class="container">
+    <hr class="space" />
+    <div id="content" class="prepend-2 span-19">
+      <div id="download">
+        <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/zipball/master"><img class="pull-4" width="80" src="http://github.com/images/modules/download/zip.png" alt="Download as a Zip archive" /></a>
+        <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/tarball/master"><img class="pull-2" width="80" src="http://github.com/images/modules/download/tar.png" alt="Download as a Tar archive" /></a>
+      </div>
+      <div id="header">
+        <h2>
+          <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}">{{ page.project-name }}</a> 
+          <span class="small">by <a href="http://{{ page.github-user }}.github.com/">{{ page.project-author }}</a></span>
+        </h2>
+        <p>
+          {{ page.project-description }}
+        </p>
+      </div>
+      <hr />
+      <div id="body">
+        {{ content }}
+        <hr />
+        <h3>Download</h3>
+        <p>
+          You can download this project in either
+          <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/zipball/master">zip</a> or
+          <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/tarball/master">tar</a> formats.
+          <br />
+          You can also clone the project with <a href="http://git-scm.com">Git</a> by running:
+        </p>
+        <pre class="cli">$ git clone git://github.com/{{ page.github-user }}/{{ page.github-project }}</pre>
+        <p>
+          Browse the source on GitHub: <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}">{{ page.github-user }}/{{ page.github-project }}</a>
+        </p>
+      </div>
+    </div>
+    <hr />
+    <div id="footer" class="prepend-2 span-19">
+      <p class="quiet">
+        Copyright &copy; 2008&ndash;{{ site.time | date: "%Y" }} Martin K&uuml;hl.
+        <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons&mdash;Attribution-Share Alike 3.0 License">Some rights reserved.</a>
+        <br />
+        I would like to thank
+        <a href="http://blueprintcss.org/">Blueprint</a>,
+        <a href="http://github.com/">GitHub</a>,
+        <a href="http://github.com/mojombo/jekyll/">Jekyll</a> and
+        <a href="http://jquery.com/">jQuery</a>
+        for making all of this possible.
+        <br />
+        Last Visit by the Magical Website Fairy:
+        {{ site.time | date: "%d%b%Y, %H:%M %Z" }}.
+      </p>
+    </div>
+  </div>
+</body>
+</html>
