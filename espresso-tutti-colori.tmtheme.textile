@@ -1,0 +1,49 @@
+---
+layout: project
+title: mkhl/espresso-tutti-colori.tmtheme @ GitHub
+project-name: Espresso.tmTheme
+project-author: Martin Kühl
+project-description: An Espresso-lookalike Theme for TextMate
+github-user: mkhl
+github-project: espresso-tutti-colori.tmtheme
+---
+
+I really like the default "Espresso":espresso colors, so I created a theme from them to keep me warm while the amount of Sugar for it increases to comfortable levels ;-)
+
+[espresso]http://macrabbit.com/espresso
+
+<hr />
+
+<div class="span-9">
+
+h3. License
+
+Copyright (c) 2009 Martin Kühl; released under "the MIT license":mit-license.
+<br />
+
+[mit-license]http://www.opensource.org/licenses/mit-license.php
+
+h3. Authors
+
+MacRabbit %(email)<n uers="znvygb:fhccbeg@znpenoovg.pbz">fhccbeg@znpenoovg.pbz</n>%
+Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
+
+h3. Contact
+
+Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
+
+</div>
+
+<div class="prepend-1 span-9 last">
+
+h3. Installation
+
+Just double-click or @open@ the @Espresso.tmTheme@ file and TextMate will take care of installing it for you.
+
+h3. Dependencies
+
+* "TextMate":textmate
+
+[textmate]http://macromates.com/
+
+</div>
