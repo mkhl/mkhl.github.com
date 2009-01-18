@@ -49,3 +49,37 @@ h3. Dependencies
 [textmate]http://macromates.com/
 
 </div>
+
+<div class="span-19">
+
+h3. Screenshots
+
+<a href="#screenshot-javascript" class="fancy">JavaScript</a> <a href="#screenshot-perl" class="fancy">Perl</a> <a href="#screenshot-python" class="fancy">Python</a> <a href="#screenshot-ruby" class="fancy">Ruby</a> <a href="#screenshot-html" class="fancy">HTML</a>
+
+<div id="screenshot-perl" class="hide">
+    !http://content.screencast.com/users/mkhl/folders/Jing/media/153fbcd9-395a-45f6-801d-7a8983acf137/00000022.png(Perl highlighting with GitHub)!
+    <p class="large">Perl highlighting with GitHub. Source: "Mr":mr-source</p>
+</div>
+<div id="screenshot-python" class="hide">
+    !http://content.screencast.com/users/mkhl/folders/Jing/media/d82c9d8c-95bf-4c2c-98f5-95f04f2da41a/00000024.png(Python highlighting with GitHub)!
+    <p class="large">Python highlighting with GitHub. Source: "Asciidoc":asciidoc-source</p>
+</div>
+<div id="screenshot-ruby" class="hide">
+    !http://content.screencast.com/users/mkhl/folders/Jing/media/ba30d143-ef17-4c16-acd0-76391057f75e/00000023.png(Ruby highlighting with GitHub)!
+    <p class="large">Ruby highlighting with GitHub. Source: "Gist":gist-source</p>
+</div>
+<div id="screenshot-javascript" class="hide">
+    !http://content.screencast.com/users/mkhl/folders/Jing/media/f0486d87-da45-4127-8411-51eb904ce723/00000025.png(JavaScript highlighting with GitHub)!
+    <p class="large">JavaScript highlighting with GitHub. Source: "FancyZoom":fancyzoom-source</p>
+</div>
+<div id="screenshot-html" class="hide">
+    !http://content.screencast.com/users/mkhl/folders/Jing/media/5d78a165-66e0-4b4d-b738-39448d180f99/00000026.png(HTML highlighting with GitHub)!
+    <p class="large">HTML highlighting with GitHub.</p>
+</div>
+
+[asciidoc-source]http://www.methods.co.nz/asciidoc/
+[fancyzoom-source]http://github.com/jnunemaker/fancy-zoom
+[gist-source]http://github.com/defunkt/gist/
+[mr-source]http://kitenet.net/~joey/code/mr/
+
+</div>
