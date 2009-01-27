@@ -17,12 +17,12 @@ h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {content:"» ";
 pre {
 	border:1px solid;
 	border-left-width:20px;
-	margin-top: -0.4em;
-	margin-bottom: 1.25em;
-	padding: 0.5ex 0.3ex 0.3ex 0.5ex;
-/*	overflow:auto;*/
+	margin:1.5em 0;
+	padding:6px 4px 4px 6px;
+	overflow:auto;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
 }
-pre, code {color:#333;background:#eee;border-color:#ddd;}
-pre.cli, code.cli {color:#eee;background:#333;border-color:#666;}
+pre, code {color:#333;background:#eee;border-color:#bbb;}
 /* Rounded Corners */
 .box {-moz-border-radius:5px;-webkit-border-radius:5px;}
