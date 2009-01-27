@@ -38,7 +38,7 @@ Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.
 
 h3. Installation
 
-Just double-click or @open@ the @Espresso.tmTheme@ file and TextMate will take care of installing it for you.
+Just double-click or @open@ the @Espresso@<wbr>@.tmTheme@ file and TextMate will take care of installing it for you.
 
 h3. Dependencies
 
