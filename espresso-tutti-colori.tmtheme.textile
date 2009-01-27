@@ -43,12 +43,9 @@ Just double-click or @open@ the @Espresso.tmTheme@ file and TextMate will take c
 h3. Dependencies
 
 * "TextMate":textmate
+  <br />
 
 [textmate]http://macromates.com/
-
-</div>
-
-<div class="span-19">
 
 h3. Screenshots
 
