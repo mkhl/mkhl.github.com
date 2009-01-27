@@ -8,7 +8,7 @@ $(function() {
 		}).sort(function(a, b) {
 			return b.watchers - a.watchers;
 		}).slice(0, limit).each(function() {
-			$('#repos').append(this.name.truncate(25).link(this.url) + '<br />');
+			$('#repos').append(this.name.truncate(17).link(this.url) + '<br />');
 		});
 	});
 });
