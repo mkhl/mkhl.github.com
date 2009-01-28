@@ -26,5 +26,3 @@ pre {
 pre, code {color:#333;background:#eee;border-color:#bbb;}
 /* Rounded Corners */
 .box {-moz-border-radius:5px;-webkit-border-radius:5px;}
-/* Reset Size */
-body {font-size:100%;}
