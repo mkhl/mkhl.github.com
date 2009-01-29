@@ -18,6 +18,7 @@ p. Martin believes that "less is more":less-is-more, that "worse is better":wors
 
 h3. Contribution
 
+* "Shell Script Bundle":shellscript-bundle for "Textmate":textmate
 * "Hets":hets
 * "Maude Bundle":maude-bundle for "TextMate":textmate
 * "Nu":nu
@@ -93,6 +94,7 @@ p<. %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
 [rubinius]http://rubini.us/
 [samba4]http://samba.org/samba/devel/
 [scheme]http://schemers.org/
+[shellscript-bundle]http://github.com/mkhl/shellscript.tmbundle
 [silver-bullet]http://www.virtualschool.edu/mon/SoftwareEngineering/BrooksNoSilverBullet.html
 [smalltalk]http://www.smalltalk.org/
 [sxemacs]http://sxemacs.org/
