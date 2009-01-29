@@ -83,7 +83,7 @@ p<. %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
 [irc-freenode]irc://irc.freenode.net
 [jquery]http://jquery.com/
 [less-is-more]http://www.designboom.com/portrait/mies.html
-[maude-bundle]http://github.com/mkhl/maude-tmbundle
+[maude-bundle]http://github.com/mkhl/maude.tmbundle
 [morphic]http://www.pdfmenot.com/view/http://ftp.squeak.org/docs/Self-4.0-UI-Framework.pdf
 [nu]http://programming.nu/
 [ohloh]http://ohloh.net/accounts/mkhl
