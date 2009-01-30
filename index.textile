@@ -3,6 +3,8 @@ layout: default
 title: Martin Kühl
 ---
 
+<div class="span-14">
+
 h2. About Martin Kühl
 
 p. Martin Kühl is a software developer from Germany with an interest in computer languages and development tools. He is currently a student of informatics at the "University of Bremen":uni-bremen specializing in formal methods of software development and working on his thesis project.
@@ -10,6 +12,8 @@ p. Martin Kühl is a software developer from Germany with an interest in compute
 p. He enjoys using -- and developing on -- both Linux and Mac OS X, learning about and applying interesting technologies, and searching for the "Quality Without a Name":qwan. His favourite monospaced fonts are "Terminus":terminus and "Inconsolata":inconsolata.  He currently writes code in "TextMate":textmate, manages versioning with "Git":git, and enters commands into the "Z Shell":zsh.
 
 p. Martin believes that "less is more":less-is-more, that "worse is better":worse-is-better, that "there is no silver bullet":silver-bullet, and that code "must speak for itself":humane-programming.
+
+</div>
 
 <hr />
 
