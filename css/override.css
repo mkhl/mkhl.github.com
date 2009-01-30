@@ -11,6 +11,9 @@ ul, ol {margin-left: 0;list-style-position: outside;}
 /* Bullets on Headings */
 h1, h2, h3, h4, h5, h6 {margin-left:-0.75em;}
 h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {content:"» ";}
+/* Bullets on Headings on Hover */
+/*div:hover > h1, div:hover > h2, div:hover > h3, div:hover > h4, div:hover > h5, div:hover > h6 {margin-left:-0.75em;}*/
+/*div:hover > h1:before, div:hover > h2:before, div:hover > h3:before, div:hover > h4:before, div:hover > h5:before, div:hover > h6:before {content:"» ";}*/
 /* Override Alignment */
 #content p {text-align:justify;}
 #download {float: right;}
