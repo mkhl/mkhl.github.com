@@ -9,3 +9,7 @@ String.prototype.truncate = function(length, truncation) {
 		? this.slice(0, length) + truncation
 		: this;
 };
+
+String.prototype.wrap = function(tag, options) {
+	return '<' + tag + '>' + this + '</' + tag + '>';
+};
