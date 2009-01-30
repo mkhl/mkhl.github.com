@@ -19,16 +19,25 @@ You should also check out "Scott Becker’s take":sbecker, as he used actual hig
 
 <div class="span-9">
 
+<div>
+
 h3. License
 
 Copyright (c) 2008 Martin Kühl; released under "the MIT license":mit-license.
-<br />
 
 [mit-license]http://www.opensource.org/licenses/mit-license.php
+
+</div>
+
+<div>
 
 h3. Authors
 
 Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
+
+</div>
+
+<div>
 
 h3. Contact
 
@@ -36,11 +45,19 @@ Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.
 
 </div>
 
+</div>
+
 <div class="prepend-1 span-9 last">
+
+<div>
 
 h3. Installation
 
 Just double-click or @open@ the @GitHub.tmTheme@ file and TextMate will take care of installing it for you.
+
+</div>
+
+<div>
 
 h3. Dependencies
 
@@ -48,6 +65,9 @@ h3. Dependencies
 
 [textmate]http://macromates.com/
 
+</div>
+
+<div>
 
 h3. Screenshots
 
@@ -78,5 +98,7 @@ h3. Screenshots
 [fancyzoom-source]http://github.com/jnunemaker/fancy-zoom
 [gist-source]http://github.com/defunkt/gist/
 [mr-source]http://kitenet.net/~joey/code/mr/
+
+</div>
 
 </div>
