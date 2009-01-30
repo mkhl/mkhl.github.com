@@ -68,7 +68,7 @@ h3. Inspiration
 
 h3. Repositories
 
-<div id="repos" class="box"></div>
+<div id="repos"><ul></ul></div>
 
 </div>
 
