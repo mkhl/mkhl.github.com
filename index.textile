@@ -6,7 +6,7 @@ subtitle: Martin K&uuml;hl’s GitHub page&mdash;what he works on and why
 
 <div class="span-12">
 
-h2. About Martin Kühl
+h2. About
 
 p. Martin Kühl is a software developer from Germany with an interest in computer languages and development tools. He is currently a student of informatics at the "University of Bremen":uni-bremen specializing in formal methods of software development and working on his thesis project.
 
@@ -20,7 +20,7 @@ p. Martin believes that "less is more":less-is-more, that "worse is better":wors
 
 <hr class="space" />
 
-h3. Contact Information
+h3. Elsewhere
 
 p. %(pull-2 span-2 right)*Email*%                       %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
    %(pull-2 span-2 right)*Location*%                    Germany
@@ -66,7 +66,7 @@ h3. Inspiration
 
 <div class="prepend-1 span-6 last">
 
-h3. My Repositories
+h3. Repositories
 
 <div id="repos" class="box"></div>
 
