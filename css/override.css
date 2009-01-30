@@ -16,6 +16,7 @@ h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {content:"» ";
 #download {float: right;}
 .left {text-align:left;}
 .right {text-align:right;}
+.center {text-align:center;}
 /* Override Code */
 pre {
 	border:1px solid;
