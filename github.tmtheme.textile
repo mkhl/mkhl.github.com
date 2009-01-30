@@ -17,7 +17,7 @@ You should also check out "Scott Becker’s take":sbecker, as he used actual hig
 
 <hr />
 
-<div class="span-9">
+<div class="span-10">
 
 <div>
 
@@ -47,7 +47,7 @@ Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.
 
 </div>
 
-<div class="prepend-1 span-9 last">
+<div class="prepend-1 span-10 last">
 
 <div>
 

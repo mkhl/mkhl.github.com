@@ -11,7 +11,7 @@
   {% include github-badge.html %}
   <div class="container">
     <hr class="space" />
-    <div id="content" class="prepend-2 span-19">
+    <div id="content" class="prepend-1 span-21">
       <div id="download">
         <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/zipball/master"><img class="pull-4" width="80" src="http://github.com/images/modules/download/zip.png" alt="Download as a Zip archive" /></a>
         <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/tarball/master"><img class="pull-2" width="80" src="http://github.com/images/modules/download/tar.png" alt="Download as a Tar archive" /></a>
@@ -29,23 +29,25 @@
       <div id="body">
         {{ content }}
         <hr />
-        <h3>Download</h3>
-        <p>
-          You can download this project in either
-          <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/zipball/master">zip</a> or
-          <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/tarball/master">tar</a> formats.
-          <br />
-          You can also clone the project with <a href="http://git-scm.com">Git</a> by running:
-        </p>
-        <pre>$ git clone git://github.com/{{ page.github-user }}/{{ page.github-project }}</pre>
-        <p>
-          Browse the source on GitHub: <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}">{{ page.github-user }}/{{ page.github-project }}</a>
-        </p>
+        <div>
+          <h3>Download</h3>
+          <p>
+            You can download this project in either
+            <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/zipball/master">zip</a> or
+            <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/tarball/master">tar</a> formats.
+            <br />
+            You can also clone the project with <a href="http://git-scm.com">Git</a> by running:
+          </p>
+          <pre>$ git clone git://github.com/{{ page.github-user }}/{{ page.github-project }}</pre>
+          <p>
+            Browse the source on GitHub: <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}">{{ page.github-user }}/{{ page.github-project }}</a>
+          </p>
+        </div>
       </div>
     </div>
     <hr />
-    <div id="footer" class="prepend-2 span-19">
-      <p class="quiet">
+    <div id="footer" class="prepend-1 span-21 last">
+      <p class="quiet small">
         Copyright &copy; 2008&ndash;{{ site.time | date: "%Y" }} Martin K&uuml;hl.
         <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons&mdash;Attribution-Share Alike 3.0 License">Some rights reserved.</a>
         <br />
