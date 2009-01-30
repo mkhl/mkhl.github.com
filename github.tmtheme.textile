@@ -1,11 +1,11 @@
 ---
 layout: project
-title: mkhl/github_textmate_theme.tmtheme @ GitHub
+title: mkhl/github.tmtheme @ GitHub
 project-name: GitHub.tmTheme
 project-author: Martin Kühl
 project-description: A Github Theme for Textmate
 github-user: mkhl
-github-project: github_textmate_theme
+github-project: github.tmtheme
 ---
 
 This is my take on a "GitHub":github theme for "TextMate":textmate. It was created from scratch by copying colours from the GitHub pygments stylesheet. Doing it this way should highlight the differences between TextMate’s and pygments’ parser, but still retain a “GitHubby” feel.
