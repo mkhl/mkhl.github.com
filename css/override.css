@@ -3,6 +3,9 @@ body {background:#f9f9f9;}
 caption {background:#e8e8e8;}
 hr {background:#d7d7d7;color:#d7d7d7;}
 hr.space {background:#f9f9f9;color:#f9f9f9;}
+#header {background:#e8e8e8;}
+#header hr {background:#c6c6c6;color:#c6c6c6;}
+#header hr.space {background:#e8e8e8;color:#e8e8e8;}
 /* Override Font Stacks */
 h1, h2, h3, h4, h5, h6 {font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;}
 pre, code, tt, kbd {font-family:Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, Courier, monospace;}
