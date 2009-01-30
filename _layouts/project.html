@@ -9,23 +9,27 @@
 </head>
 <body>
   {% include github-badge.html %}
+  <div id="header" class="showgrid">
+    <hr class="space" />
+    <div id="download">
+      <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/zipball/master"><img class="pull-7" height="88" src="http://github.com/images/modules/download/zip.png" alt="Download as a Zip archive" /></a>
+      <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/tarball/master"><img class="pull-5" height="88" src="http://github.com/images/modules/download/tar.png" alt="Download as a Tar archive" /></a>
+    </div>
+    <div class="center">
+      <h1>
+        <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}">{{ page.project-name }}</a> 
+      </h1>
+      <p class="quiet">
+        {{ page.project-description }}
+        by <a href="http://{{ page.github-user }}.github.com/">{{ page.project-author }}</a>
+      </p>
+    </div>
+    <hr class="space" />
+    <hr />
+  </div>
   <div class="container">
     <hr class="space" />
     <div id="content" class="prepend-1 span-21">
-      <div id="download">
-        <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/zipball/master"><img class="pull-4" width="80" src="http://github.com/images/modules/download/zip.png" alt="Download as a Zip archive" /></a>
-        <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}/tarball/master"><img class="pull-2" width="80" src="http://github.com/images/modules/download/tar.png" alt="Download as a Tar archive" /></a>
-      </div>
-      <div id="header">
-        <h2>
-          <a href="http://github.com/{{ page.github-user }}/{{ page.github-project }}">{{ page.project-name }}</a> 
-          <span class="small">by <a href="http://{{ page.github-user }}.github.com/">{{ page.project-author }}</a></span>
-        </h2>
-        <p>
-          {{ page.project-description }}
-        </p>
-      </div>
-      <hr />
       <div id="body">
         {{ content }}
         <hr />
