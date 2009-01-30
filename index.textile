@@ -50,7 +50,7 @@ h3. Contribution
 
 </div>
 
-<div class="prepend-1 span-6 last">
+<div class="prepend-1 span-6">
 
 h3. Inspiration
 
@@ -61,6 +61,14 @@ h3. Inspiration
 * "Quicksilver":quicksilver
 * "Scheme":scheme
 * "Smalltalk":smalltalk
+
+</div>
+
+<div class="prepend-1 span-6 last">
+
+h3. My Repositories
+
+<div id="repos" class="box"></div>
 
 </div>
 
