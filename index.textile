@@ -46,29 +46,17 @@ h3. Inspiration
 <hr />
 
 
+<div class="span-7 last">
+
 h3. Contact Information
 
-<div class="pull-2 span-2">
-
-p>. *Email*
-    *Location*
-    *Jabber*
-    *IRC*
-    *Twitter*
-    *GitHub*
-    *Ohloh*
-
-</div>
-
-<div class="last">
-
-p<. %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
-    Germany
-    %(email)znegva.xhruy@tznvy.pbz%
-    perdix on "irc.freenode.net":irc-freenode
-    "@mkhl":twitter
-    "http://github.com/mkhl":github
-    "http://ohloh.net/accounts/mkhl":ohloh
+p. %(pull-2 span-2 right)*Email*%                       %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
+   %(pull-2 span-2 right)*Location*%                    Germany
+   %(pull-2 span-2 right)*Jabber*%                      %(email)znegva.xhruy@tznvy.pbz%
+   %(pull-2 span-2 right)*IRC(Internet Relay Chat)*%    perdix on "irc.freenode.net":irc-freenode
+   %(pull-2 span-2 right)*Twitter*%                     "@mkhl":twitter
+   %(pull-2 span-2 right)*GitHub*%                      "http://github.com/mkhl":github
+   %(pull-2 span-2 right)*Ohloh*%                       "http://ohloh.net/accounts/mkhl":ohloh
 
 </div>
 
