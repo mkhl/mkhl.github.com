@@ -11,6 +11,9 @@ h1, h2, h3, h4, h5, h6 {font-family: "Palatino Linotype", Palatino, Palladio, "U
 pre, code, tt, kbd {font-family:Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, Courier, monospace;}
 /* Override Bullets */
 ul, ol {margin-left: 0;list-style-position: outside;}
+/* Override Definition Lists */
+dl.compact dd {margin:0;}
+dl.compact dd p {margin:0;}
 /* Bullets on Headings */
 /*h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {content:"» ";margin-left:-0.75em;}*/
 /* Bullets on Headings on Hover */
