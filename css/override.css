@@ -16,7 +16,7 @@ ul, ol {margin-left: 0;list-style-position: outside;}
 /* Bullets on Headings on Hover */
 div:hover > h1:before, div:hover > h2:before, div:hover > h3:before, div:hover > h4:before, div:hover > h5:before, div:hover > h6:before {content:"» ";margin-left:-0.75em;}
 /* Override Alignment */
-#content p {text-align:justify;}
+#content div > p {text-align:justify;}
 #download {float: right;}
 .left {text-align:left;}
 .right {text-align:right;}
