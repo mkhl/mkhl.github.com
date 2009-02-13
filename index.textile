@@ -16,7 +16,7 @@ p. Martin believes that "less is more":less-is-more, that "worse is better":wors
 
 </div>
 
-<div class="prepend-2 span-6 last">
+<div class="prepend-2 span-7 last">
 
 <hr class="space" />
 
@@ -29,7 +29,7 @@ p. %(pull-2 span-2 right)*Email*%                       %(email)<n uers="znvygb:
    %(pull-2 span-2 right)*Twitter*%                     "@mkhl":twitter
    %(pull-2 span-2 right)*GitHub*%                      "http://github.com/mkhl":github
    %(pull-2 span-2 right)*Ohloh*%                       "http://ohloh.net/accounts/mkhl":ohloh
-   %(pull-2 span-2 right)*CAN(Calendar About Nothing)*% "~mkhl":calendar
+   %(pull-2 span-2 right)*CAN(Calendar About Nothing)*% "http://calendaraboutnothing.com/~mkhl":calendar
 
 </div>
 
@@ -65,7 +65,7 @@ h3. Inspiration
 
 </div>
 
-<div class="prepend-1 span-6 last">
+<div class="prepend-1 span-7 last">
 
 h3. Repositories
 
