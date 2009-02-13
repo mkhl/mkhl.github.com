@@ -40,6 +40,7 @@ p. %(pull-2 span-2 right)*Email*%                       %(email)<n uers="znvygb:
 
 h3. Contribution
 
+* "Rush":rush
 * "Shell Script Bundle":shellscript-bundle for "Textmate":textmate
 * "Hets":hets
 * "Maude Bundle":maude-bundle for "TextMate":textmate
@@ -94,6 +95,7 @@ h3. Repositories
 [quicksilver]http://docs.blacktree.com/quicksilver/what_is_quicksilver
 [qwan]http://www.munnecke.com/islands/qwan.htm
 [rubinius]http://rubini.us/
+[rush]http://rush.heroku.com/
 [samba4]http://samba.org/samba/devel/
 [scheme]http://schemers.org/
 [shellscript-bundle]http://github.com/mkhl/shellscript.tmbundle
