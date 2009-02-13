@@ -29,6 +29,7 @@ p. %(pull-2 span-2 right)*Email*%                       %(email)<n uers="znvygb:
    %(pull-2 span-2 right)*Twitter*%                     "@mkhl":twitter
    %(pull-2 span-2 right)*GitHub*%                      "http://github.com/mkhl":github
    %(pull-2 span-2 right)*Ohloh*%                       "http://ohloh.net/accounts/mkhl":ohloh
+   %(pull-2 span-2 right)*CAN(Calendar About Nothing)*% "~mkhl":calendar
 
 </div>
 
@@ -73,6 +74,7 @@ h3. Repositories
 </div>
 
 
+[calendar]http://calendaraboutnothing.com/~mkhl
 [git]http://git-scm.org/
 [github]http://github.com/mkhl
 [hets]http://www.informatik.uni-bremen.de/cofi/hets/
