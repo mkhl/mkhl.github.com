@@ -20,7 +20,7 @@ h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {content:"» ";
 /* Bullets on Headings on Hover */
 /*div:hover > h1:before, div:hover > h2:before, div:hover > h3:before, div:hover > h4:before, div:hover > h5:before, div:hover > h6:before {content:"» ";margin-left:-0.75em;}*/
 /* Override Alignment */
-#content div > p {text-align:justify;}
+/*#content div > p {text-align:justify;}*/
 #download {float: right;}
 .left {text-align:left;}
 .right {text-align:right;}
