@@ -39,4 +39,4 @@ pre, code {color:#333;background:#eee;border-color:#bbb;}
 /* Rounded Corners */
 .box, .error, .notice, .success {-moz-border-radius:5px;-webkit-border-radius:5px;}
 /* Override Size */
-body {font-size:87.5%;}
+body {font-size:100%;}
