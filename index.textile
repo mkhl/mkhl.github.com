@@ -10,7 +10,7 @@ h2. About
 
 p. Martin Kühl is a software developer from Germany with an interest in computer languages and development tools. He is currently a student of informatics at the "University of Bremen":uni-bremen specializing in formal methods of software development and working on his thesis project.
 
-p. He enjoys using -- and developing on -- both Linux and Mac OS X, learning about and applying interesting technologies, and searching for the "Quality Without a Name":qwan. His favourite monospaced fonts are "Terminus":terminus and "Inconsolata":inconsolata.  He currently writes code in "TextMate":textmate, manages versioning with "Git":git, and enters commands into the "Z Shell":zsh.
+p. He enjoys using -- and developing on -- both Linux and Mac OS X, learning about and applying interesting technologies, and searching for the "Quality Without a Name":qwan. His favourite monospaced fonts are "Terminus":terminus and "Inconsolata":inconsolata.  He currently writes code in either "TextMate":textmate or "Aquamacs":aquamacs, manages versioning with "Git":git, and enters commands into the "Bash shell (version 4)":bash.
 
 p. Martin believes that "less is more":less-is-more, that "worse is better":worse-is-better, that "there is no silver bullet":silver-bullet, and that code "must speak for itself":humane-programming.
 
@@ -40,10 +40,12 @@ p. %(pull-2 span-2 right)*Email*%                       %(email)<n uers="znvygb:
 
 h3. Contribution
 
+* "Bash Sugar":bash-sugar ("Espresso":espresso)
+* "Textile Sugar":textile-sugar ("Espresso":espresso)
 * "Rush":rush
-* "Shell Script Bundle":shellscript-bundle for "Textmate":textmate
+* "Shell Script Bundle":shellscript-bundle ("TextMate":textmate)
 * "Hets":hets
-* "Maude Bundle":maude-bundle for "TextMate":textmate
+* "Maude Bundle":maude-bundle ("TextMate":textmate)
 * "Nu":nu
 * "Rubinius":rubinius
 * "Samba 4":samba4
@@ -75,7 +77,11 @@ h3. Repositories
 </div>
 
 
+[aquamacs]http://aquamacs.org/
+[bash]http://www.gnu.org/software/bash/
+[bash-sugar]http://github.com/mkhl/bash.sugar
 [calendar]http://calendaraboutnothing.com/~mkhl
+[espresso]http://macrabbit.com/espresso/
 [git]http://git-scm.org/
 [github]http://github.com/mkhl
 [hets]http://www.informatik.uni-bremen.de/cofi/hets/
@@ -103,6 +109,7 @@ h3. Repositories
 [smalltalk]http://www.smalltalk.org/
 [sxemacs]http://sxemacs.org/
 [terminus]http://www.is-vn.bg/hamster/
+[textile]http://github.com/mkhl/textile.sugar
 [textmate]http://macromates.com/
 [twitter]http://twitter.com/mkhl
 [uni-bremen]http://www.informatik.uni-bremen.de/
