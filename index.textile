@@ -46,13 +46,15 @@ p. %(pull-2 span-2 right)*Email*%                       %(email)<n uers="znvygb:
    %(pull-2 span-2 right)*Google*%                      "martin.kuehl":google-code
    %(pull-2 span-2 right)*Ohloh*%                       "mkhl":ohloh
    %(pull-2 span-2 right)*CAN(Calendar About Nothing)*% "mkhl":calendar
+   %(pull-2 span-2 right)*Soup*%                        "mkhl":soup
 
 [bitbucket]http://bitbucket.org/mkhl
 [calendar]http://calendaraboutnothing.com/~mkhl
 [github]http://github.com/mkhl
-[google-code]http://code.google.com/u/martin.kuehl/
+[google-code]http://code.google.com/u/martin.kuehl
 [irc-freenode]irc://irc.freenode.net
 [ohloh]http://ohloh.net/accounts/mkhl
+[soup]http://mkhl.soup.io/
 [twitter]http://twitter.com/mkhl
 
 </div>
