@@ -107,7 +107,7 @@ h3. Repositories
 [smalltalk]http://www.smalltalk.org/
 [sxemacs]http://sxemacs.org/
 [terminus]http://www.is-vn.bg/hamster/
-[textile]http://github.com/mkhl/textile.sugar
+[textile-sugar]http://github.com/mkhl/textile.sugar
 [textmate]http://macromates.com/
 [twitter]http://twitter.com/mkhl
 [uni-bremen]http://www.informatik.uni-bremen.de/
