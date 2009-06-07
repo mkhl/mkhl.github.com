@@ -73,23 +73,23 @@ h3. Screenshots
 <a href="#screenshot-javascript" class="fancy">JavaScript</a> <a href="#screenshot-perl" class="fancy">Perl</a> <a href="#screenshot-python" class="fancy">Python</a> <a href="#screenshot-ruby" class="fancy">Ruby</a> <a href="#screenshot-html" class="fancy">HTML</a>
 
 <div id="screenshot-perl" class="hide">
-    !http://content.screencast.com/users/mkhl/folders/Jing/media/73fee608-7dca-4e09-aa3f-90bcd224972a/00000017.png(Perl highlighting with Espresso)!
+    !http://content.screencast.com/users/mkhl/folders/Jing/media/435569cb-a856-4c5d-bd59-14ff24d85d4b/00000035.png(Perl highlighting with Espresso)!
     <p>Perl highlighting with Espresso. Source: "Mr":mr-source</p>
 </div>
 <div id="screenshot-python" class="hide">
-    !http://content.screencast.com/users/mkhl/folders/Jing/media/bb8222b8-5f89-420d-badb-b67ea92bec43/00000020.png(Python highlighting with Espresso)!
+    !http://content.screencast.com/users/mkhl/folders/Jing/media/35328aa3-057b-4781-aef6-cd8fd2886623/00000034.png(Python highlighting with Espresso)!
     <p>Python highlighting with Espresso. Source: "Asciidoc":asciidoc-source</p>
 </div>
 <div id="screenshot-ruby" class="hide">
-    !http://content.screencast.com/users/mkhl/folders/Jing/media/da5b197f-bd8e-4263-a5cb-2e6af548913c/00000019.png(Ruby highlighting with Espresso)!
+    !http://content.screencast.com/users/mkhl/folders/Jing/media/27244b51-78ff-493f-a971-096e7a5fabaa/00000036.png(Ruby highlighting with Espresso)!
     <p>Ruby highlighting with Espresso. Source: "Gist":gist-source</p>
 </div>
 <div id="screenshot-javascript" class="hide">
-    !http://content.screencast.com/users/mkhl/folders/Jing/media/f78be6e9-3817-48d7-88b3-9a99f1790abf/00000021.png(JavaScript highlighting with Espresso)!
+    !http://content.screencast.com/users/mkhl/folders/Jing/media/e0e7cccc-b104-4f4c-bb70-b16616eb47ae/00000033.png(JavaScript highlighting with Espresso)!
     <p>JavaScript highlighting with Espresso. Source: "FancyZoom":fancyzoom-source</p>
 </div>
 <div id="screenshot-html" class="hide">
-    !http://content.screencast.com/users/mkhl/folders/Jing/media/9503b0b4-cb4e-44d6-91fa-4e461604276a/00000018.png(HTML highlighting with Espresso)!
+    !http://content.screencast.com/users/mkhl/folders/Jing/media/194292ed-7992-46a9-9e26-fcf7635accdc/00000037.png(HTML highlighting with Espresso)!
     <p>HTML highlighting with Espresso.</p>
 </div>
 
