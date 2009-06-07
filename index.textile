@@ -14,6 +14,20 @@ p. He enjoys using -- and developing on -- both Linux and Mac OS X, learning abo
 
 p. Martin believes that "less is more":less-is-more, that "worse is better":worse-is-better, that "there is no silver bullet":silver-bullet, and that code "must speak for itself":humane-programming.
 
+[aquamacs]http://aquamacs.org/
+[bash]http://www.gnu.org/software/bash/
+[git]http://git-scm.org/
+[humane-programming]http://hkn.eecs.berkeley.edu/~dyoo/programming/human.html
+[inconsolata]http://levien.com/type/myfonts/inconsolata.html
+[less-is-more]http://www.designboom.com/portrait/mies.html
+[qwan]http://www.munnecke.com/islands/qwan.htm
+[silver-bullet]http://www.virtualschool.edu/mon/SoftwareEngineering/BrooksNoSilverBullet.html
+[terminus]http://www.is-vn.bg/hamster/
+[textmate]http://macromates.com/
+[uni-bremen]http://www.informatik.uni-bremen.de/
+[worse-is-better]http://www.dreamsongs.org/WIB.html
+[zsh]http://www.zsh.org/
+
 </div>
 
 <div class="prepend-2 span-7 last">
@@ -27,9 +41,19 @@ p. %(pull-2 span-2 right)*Email*%                       %(email)<n uers="znvygb:
    %(pull-2 span-2 right)*Jabber*%                      %(email)znegva.xhruy@tznvy.pbz%
    %(pull-2 span-2 right)*IRC(Internet Relay Chat)*%    perdix on "Freenode":irc-freenode
    %(pull-2 span-2 right)*Twitter*%                     "@mkhl":twitter
+   %(pull-2 span-2 right)*BitBucket*%                   "mkhl":bitbucket
    %(pull-2 span-2 right)*GitHub*%                      "mkhl":github
+   %(pull-2 span-2 right)*Google*%                      "martin.kuehl":google-code
    %(pull-2 span-2 right)*Ohloh*%                       "mkhl":ohloh
    %(pull-2 span-2 right)*CAN(Calendar About Nothing)*% "mkhl":calendar
+
+[bitbucket]http://bitbucket.org/mkhl
+[calendar]http://calendaraboutnothing.com/~mkhl
+[github]http://github.com/mkhl
+[google-code]http://code.google.com/u/martin.kuehl/
+[irc-freenode]irc://irc.freenode.net
+[ohloh]http://ohloh.net/accounts/mkhl
+[twitter]http://twitter.com/mkhl
 
 </div>
 
@@ -50,6 +74,19 @@ h3. Contribution
 * "SXEmacs":sxemacs
 * "PAbbrev":pabbrev
 
+[bash-sugar]http://github.com/mkhl/bash.sugar
+[espresso]http://macrabbit.com/espresso/
+[hets]http://www.informatik.uni-bremen.de/cofi/hets/
+[maude-bundle]http://github.com/mkhl/maude.tmbundle
+[nu]http://programming.nu/
+[pabbrev]http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html
+[rubinius]http://rubini.us/
+[rush]http://rush.heroku.com/
+[samba4]http://samba.org/samba/devel/
+[shellscript-bundle]http://github.com/mkhl/shellscript.tmbundle
+[sxemacs]http://sxemacs.org/
+[textile-sugar]http://github.com/mkhl/textile.sugar
+
 </div>
 
 <div class="prepend-1 span-6">
@@ -64,6 +101,14 @@ h3. Inspiration
 * "Scheme":scheme
 * "Smalltalk":smalltalk
 
+[humane-interface]http://rchi.raskincenter.org/index.php?title=Core_Principles
+[io]http://iolanguage.com/
+[jquery]http://jquery.com/
+[plan-9]http://plan9.bell-labs.com/plan9/
+[quicksilver]http://docs.blacktree.com/quicksilver/what_is_quicksilver
+[scheme]http://schemers.org/
+[smalltalk]http://www.smalltalk.org/
+
 </div>
 
 <div class="prepend-1 span-7 last">
@@ -73,43 +118,3 @@ h3. Repositories
 <div id="repos"><ul></ul></div>
 
 </div>
-
-
-[aquamacs]http://aquamacs.org/
-[bash]http://www.gnu.org/software/bash/
-[bash-sugar]http://github.com/mkhl/bash.sugar
-[calendar]http://calendaraboutnothing.com/~mkhl
-[espresso]http://macrabbit.com/espresso/
-[git]http://git-scm.org/
-[github]http://github.com/mkhl
-[hets]http://www.informatik.uni-bremen.de/cofi/hets/
-[humane-interface]http://rchi.raskincenter.org/index.php?title=Core_Principles
-[humane-programming]http://hkn.eecs.berkeley.edu/~dyoo/programming/human.html
-[inconsolata]http://levien.com/type/myfonts/inconsolata.html
-[io]http://iolanguage.com/
-[irc-freenode]irc://irc.freenode.net
-[jquery]http://jquery.com/
-[less-is-more]http://www.designboom.com/portrait/mies.html
-[maude-bundle]http://github.com/mkhl/maude.tmbundle
-[morphic]http://www.pdfmenot.com/view/http://ftp.squeak.org/docs/Self-4.0-UI-Framework.pdf
-[nu]http://programming.nu/
-[ohloh]http://ohloh.net/accounts/mkhl
-[pabbrev]http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html
-[plan-9]http://plan9.bell-labs.com/plan9/
-[quicksilver]http://docs.blacktree.com/quicksilver/what_is_quicksilver
-[qwan]http://www.munnecke.com/islands/qwan.htm
-[rubinius]http://rubini.us/
-[rush]http://rush.heroku.com/
-[samba4]http://samba.org/samba/devel/
-[scheme]http://schemers.org/
-[shellscript-bundle]http://github.com/mkhl/shellscript.tmbundle
-[silver-bullet]http://www.virtualschool.edu/mon/SoftwareEngineering/BrooksNoSilverBullet.html
-[smalltalk]http://www.smalltalk.org/
-[sxemacs]http://sxemacs.org/
-[terminus]http://www.is-vn.bg/hamster/
-[textile-sugar]http://github.com/mkhl/textile.sugar
-[textmate]http://macromates.com/
-[twitter]http://twitter.com/mkhl
-[uni-bremen]http://www.informatik.uni-bremen.de/
-[worse-is-better]http://www.dreamsongs.org/WIB.html
-[zsh]http://www.zsh.org/
