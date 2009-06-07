@@ -40,12 +40,10 @@ p. %(pull-2 span-2 right)*Email*%                       %(email)<n uers="znvygb:
 
 h3. Contribution
 
-* "Bash Sugar":bash-sugar ("Espresso":espresso)
-* "Textile Sugar":textile-sugar ("Espresso":espresso)
+* "Espresso":espresso Sugars: "1":bash-sugar "2":textile-sugar
+* "TextMate":textmate Bundles: "1":shellscript-bundle "2":maude-bundle
 * "Rush":rush
-* "Shell Script Bundle":shellscript-bundle ("TextMate":textmate)
 * "Hets":hets
-* "Maude Bundle":maude-bundle ("TextMate":textmate)
 * "Nu":nu
 * "Rubinius":rubinius
 * "Samba 4":samba4
