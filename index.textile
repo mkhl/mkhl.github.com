@@ -25,11 +25,11 @@ h3. Elsewhere
 p. %(pull-2 span-2 right)*Email*%                       %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
    %(pull-2 span-2 right)*Location*%                    Germany
    %(pull-2 span-2 right)*Jabber*%                      %(email)znegva.xhruy@tznvy.pbz%
-   %(pull-2 span-2 right)*IRC(Internet Relay Chat)*%    perdix on "irc.freenode.net":irc-freenode
+   %(pull-2 span-2 right)*IRC(Internet Relay Chat)*%    perdix on "Freenode":irc-freenode
    %(pull-2 span-2 right)*Twitter*%                     "@mkhl":twitter
-   %(pull-2 span-2 right)*GitHub*%                      "http://github.com/mkhl":github
-   %(pull-2 span-2 right)*Ohloh*%                       "http://ohloh.net/accounts/mkhl":ohloh
-   %(pull-2 span-2 right)*CAN(Calendar About Nothing)*% "http://calendaraboutnothing.com/~mkhl":calendar
+   %(pull-2 span-2 right)*GitHub*%                      "mkhl":github
+   %(pull-2 span-2 right)*Ohloh*%                       "mkhl":ohloh
+   %(pull-2 span-2 right)*CAN(Calendar About Nothing)*% "mkhl":calendar
 
 </div>
 
