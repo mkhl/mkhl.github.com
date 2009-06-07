@@ -17,6 +17,7 @@ dl.compact dd {margin:0;}
 dl.compact dd p {margin:0;}
 /* Bullets on Headings */
 /* h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {content:"» ";margin-left:-0.75em;} */
+h1:before {content:"» ";margin-left:-0.75em;}
 /* Bullets on Headings on Hover */
 /*div:hover > h1:before, div:hover > h2:before, div:hover > h3:before, div:hover > h4:before, div:hover > h5:before, div:hover > h6:before {content:"» ";margin-left:-0.75em;}*/
 /* Override Alignment */
