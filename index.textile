@@ -66,6 +66,7 @@ p. %(pull-2 span-2 right)*Email*%                       %(email)<n uers="znvygb:
 
 h3. Contribution
 
+* "Quick Search Box":qsb
 * "Espresso":espresso Sugars ["1":bash-sugar, "2":textile-sugar]
 * "TextMate":textmate Bundles ["1":shellscript-bundle, "2":maude-bundle]
 * "Rush":rush
@@ -82,6 +83,7 @@ h3. Contribution
 [maude-bundle]http://github.com/mkhl/maude.tmbundle
 [nu]http://programming.nu/
 [pabbrev]http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html
+[qsb]http://code.google.com/p/qsb-mac/
 [rubinius]http://rubini.us/
 [rush]http://rush.heroku.com/
 [samba4]http://samba.org/samba/devel/
