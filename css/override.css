@@ -11,7 +11,7 @@ body {font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neu
 /*h1, h2, h3, h4, h5, h6 {font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;}*/
 pre, code, tt, kbd {font-family:Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, Courier, monospace;}
 /* Override Bullets */
-ul, ol {margin-left: 0;list-style-position: outside;}
+ul, ol {margin-left:0;padding-left:0;list-style-position: outside;}
 /* Override Definition Lists */
 dl.compact dd {margin:0;}
 dl.compact dd p {margin:0;}
