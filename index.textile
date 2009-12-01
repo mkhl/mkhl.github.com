@@ -68,7 +68,7 @@ h3. Contribution
 
 * "Quick Search Box":qsb
 * "Espresso":espresso Sugars ["1":bash-sugar, "2":textile-sugar]
-* "TextMate":textmate Bundles ["1":shellscript-bundle, "2":maude-bundle]
+* "TextMate":textmate Bundles ["1":shellscript-bundle, "2":applescript-bundle, "3":maude-bundle]
 * "Rush":rush
 * "Hets":hets
 * "Nu":nu
@@ -77,6 +77,7 @@ h3. Contribution
 * "SXEmacs":sxemacs
 * "PAbbrev":pabbrev
 
+[applescript-bundle]http://github.com/mkhl/applescript.tmbundle
 [bash-sugar]http://github.com/mkhl/bash.sugar
 [espresso]http://macrabbit.com/espresso/
 [hets]http://www.informatik.uni-bremen.de/cofi/hets/
