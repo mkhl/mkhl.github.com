@@ -5,7 +5,6 @@ $(function() {
     function buildHTML(repo) {
         return repo.name.truncate(25).link(repo.url).wrap('li');
     }
-    
 
     $.getJSON('http://github.com/api/v1/json/' + login + '?callback=?', function(data) {
         $(data.user.repositories).filter(function() {
