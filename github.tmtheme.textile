@@ -24,9 +24,7 @@ You should also check out "Scott Becker's take":sbecker, as he used actual highl
 
 h3. License
 
-Copyright (c) 2008 Martin Kühl; released under "the MIT license":mit-license.
-
-[mit-license]http://www.opensource.org/licenses/mit-license.php
+Copyright (c) 2008 {{ page.project-author }}; {% include mit-license.html %}.
 
 </div>
 
