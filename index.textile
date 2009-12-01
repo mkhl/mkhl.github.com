@@ -10,24 +10,26 @@ h2. About
 
 p. Martin Kühl is a software developer from Germany with an interest in computer languages and development tools. He is currently a student of informatics at the "University of Bremen":uni-bremen specializing in formal methods of software development and working on his thesis project.
 
+[uni-bremen]http://www.informatik.uni-bremen.de/
+
 p. He enjoys using -- and developing on -- both Linux and Mac OS X, learning about and applying interesting technologies, and searching for the "Quality Without a Name":qwan. His favourite monospaced fonts are "Terminus":terminus and "Inconsolata":inconsolata.  He currently writes code in either "TextMate":textmate or "GNU Emacs":emacs, manages versioning with "Git":git, and enters commands into the "Z shell":zsh.
+
+[less-is-more]http://www.designboom.com/portrait/mies.html
+[worse-is-better]http://www.dreamsongs.org/WIB.html
+[silver-bullet]http://www.virtualschool.edu/mon/SoftwareEngineering/BrooksNoSilverBullet.html
+[humane-programming]http://hkn.eecs.berkeley.edu/~dyoo/programming/human.html
 
 p. Martin believes that "less is more":less-is-more, that "worse is better":worse-is-better, that "there is no silver bullet":silver-bullet, and that code "must speak for itself":humane-programming.
 
-[aquamacs]http://aquamacs.org/
-[bash]http://www.gnu.org/software/bash/
-[emacs]http://www.gnu.org/software/emacs/
-[git]http://git-scm.org/
-[humane-programming]http://hkn.eecs.berkeley.edu/~dyoo/programming/human.html
-[inconsolata]http://levien.com/type/myfonts/inconsolata.html
-[less-is-more]http://www.designboom.com/portrait/mies.html
 [qwan]http://www.munnecke.com/islands/qwan.htm
-[silver-bullet]http://www.virtualschool.edu/mon/SoftwareEngineering/BrooksNoSilverBullet.html
 [terminus]http://www.is-vn.bg/hamster/
+[inconsolata]http://levien.com/type/myfonts/inconsolata.html
 [textmate]http://macromates.com/
-[uni-bremen]http://www.informatik.uni-bremen.de/
-[worse-is-better]http://www.dreamsongs.org/WIB.html
+[emacs]http://www.gnu.org/software/emacs/
+[aquamacs]http://aquamacs.org/
+[git]http://git-scm.org/
 [zsh]http://www.zsh.org/
+[bash]http://www.gnu.org/software/bash/
 
 </div>
 
@@ -48,14 +50,13 @@ p. %(pull-2 span-2 right)*Email*%                       %(email)<n uers="znvygb:
    %(pull-2 span-2 right)*Ohloh*%                       "mkhl":ohloh
    %(pull-2 span-2 right)*Soup*%                        "mkhl":soup
 
+[irc-freenode]irc://irc.freenode.net
+[twitter]http://twitter.com/mkhl
 [bitbucket]http://bitbucket.org/mkhl
-[calendar]http://calendaraboutnothing.com/~mkhl
 [github]http://github.com/mkhl
 [google-code]http://code.google.com/u/martin.kuehl
-[irc-freenode]irc://irc.freenode.net
 [ohloh]http://ohloh.net/accounts/mkhl
 [soup]http://mkhl.soup.io/
-[twitter]http://twitter.com/mkhl
 
 </div>
 
@@ -77,20 +78,22 @@ h3. Contribution
 * "SXEmacs":sxemacs
 * "PAbbrev":pabbrev
 
-[applescript-bundle]http://github.com/mkhl/applescript.tmbundle
-[bash-sugar]http://github.com/mkhl/bash.sugar
-[espresso]http://macrabbit.com/espresso/
-[hets]http://www.informatik.uni-bremen.de/cofi/hets/
-[maude-bundle]http://github.com/mkhl/maude.tmbundle
-[nu]http://programming.nu/
-[pabbrev]http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html
 [qsb]http://code.google.com/p/qsb-mac/
-[rubinius]http://rubini.us/
-[rush]http://rush.heroku.com/
-[samba4]http://samba.org/samba/devel/
-[shellscript-bundle]http://github.com/mkhl/shellscript.tmbundle
-[sxemacs]http://sxemacs.org/
+[espresso]http://macrabbit.com/espresso/
+[bash-sugar]http://github.com/mkhl/bash.sugar
 [textile-sugar]http://github.com/mkhl/textile.sugar
+[textmate]http://macromates.com/
+[shellscript-bundle]http://github.com/mkhl/shellscript.tmbundle
+[applescript-bundle]http://github.com/mkhl/applescript.tmbundle
+[maude-bundle]http://github.com/mkhl/maude.tmbundle
+[rush]http://rush.heroku.com/
+[hets]http://www.informatik.uni-bremen.de/cofi/hets/
+[nu]http://programming.nu/
+[rubinius]http://rubini.us/
+[samba4]http://samba.org/samba/devel/
+[sxemacs]http://sxemacs.org/
+[pabbrev]http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html
+
 
 </div>
 
