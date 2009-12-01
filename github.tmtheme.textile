@@ -8,9 +8,9 @@ github-user: mkhl
 github-project: github.tmtheme
 ---
 
-This is my take on a "GitHub":github theme for "TextMate":textmate. It was created from scratch by copying colours from the GitHub pygments stylesheet. Doing it this way should highlight the differences between TextMate’s and pygments’ parser, but still retain a “GitHubby” feel.
+This is my take on a "GitHub":github theme for "TextMate":textmate. It was created from scratch by copying colours from the GitHub pygments stylesheet. Doing it this way should highlight the differences between TextMate's and pygments' parser, but still retain a "GitHubby" feel.
 
-You should also check out "Scott Becker’s take":sbecker, as he used actual highlighted examples to create it and thus probably mirrors the GitHub highlighting more closely.
+You should also check out "Scott Becker's take":sbecker, as he used actual highlighted examples to create it and thus probably mirrors the GitHub highlighting more closely.
 
 [github]http://github.com/
 [sbecker]http://github.com/sbecker/github_textmate_theme
