@@ -46,7 +46,6 @@ p. %(pull-2 span-2 right)*Email*%                       %(email)<n uers="znvygb:
    %(pull-2 span-2 right)*GitHub*%                      "mkhl":github
    %(pull-2 span-2 right)*Google*%                      "martin.kuehl":google-code
    %(pull-2 span-2 right)*Ohloh*%                       "mkhl":ohloh
-   %(pull-2 span-2 right)*CAN(Calendar About Nothing)*% "mkhl":calendar
    %(pull-2 span-2 right)*Soup*%                        "mkhl":soup
 
 [bitbucket]http://bitbucket.org/mkhl
