@@ -3,6 +3,7 @@ layout: project
 title: mkhl/github.tmtheme @ GitHub
 project-name: GitHub.tmTheme
 project-author: Martin Kühl
+project-contact: Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
 project-description: A Github Theme for Textmate
 github-user: mkhl
 github-project: github.tmtheme
@@ -33,7 +34,7 @@ Copyright (c) 2008 Martin Kühl; released under "the MIT license":mit-license.
 
 h3. Authors
 
-Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
+{{ page.project-contact }}
 
 </div>
 
@@ -41,7 +42,7 @@ Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.
 
 h3. Contact
 
-Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
+{{ page.project-contact }}
 
 </div>
 

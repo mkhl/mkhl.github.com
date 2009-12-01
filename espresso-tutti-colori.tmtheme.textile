@@ -3,6 +3,7 @@ layout: project
 title: mkhl/espresso-tutti-colori.tmtheme @ GitHub
 project-name: Espresso.tmTheme
 project-author: Martin Kühl
+project-contact: Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
 project-description: An Espresso-lookalike Theme for TextMate
 github-user: mkhl
 github-project: espresso-tutti-colori.tmtheme
@@ -31,7 +32,7 @@ Copyright (c) 2009 Martin Kühl; released under "the MIT license":mit-license.
 h3. Authors
 
 MacRabbit %(email)<n uers="znvygb:fhccbeg@znpenoovg.pbz">fhccbeg@znpenoovg.pbz</n>%
-Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
+{{ page.project-contact }}
 
 </div>
 
@@ -39,7 +40,7 @@ Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.
 
 h3. Contact
 
-Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
+{{ page.project-contact }}
 
 </div>
 
