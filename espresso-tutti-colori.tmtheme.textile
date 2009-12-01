@@ -52,7 +52,7 @@ h3. Contact
 
 h3. Installation
 
-Just double-click or @open@ the @Espresso@<wbr>@.tmTheme@ file and TextMate will take care of installing it for you.
+Just double-click or @open@ the @{{ page.project-name }}@ file and TextMate will take care of installing it for you.
 
 </div>
 
