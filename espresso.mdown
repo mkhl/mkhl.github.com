@@ -9,6 +9,8 @@ project-authors:
   - MacRabbit &lt;<span class="email"><n uers="znvygb:fhccbeg@znpenoovg.pbz">fhccbeg@znpenoovg.pbz</n></span>&gt;
 ---
 
-I really like the default "Espresso":espresso colors, so I created a theme from them to keep me warm while the amount of Sugar for it increases to comfortable levels ;-)
+I really like the default [Espresso][] colors, so I created a theme from
+them to keep me warm while the amount of Sugar for it increases to
+comfortable levels ;-)
 
-[espresso]http://macrabbit.com/espresso
+[espresso]: http://macrabbit.com/espresso
