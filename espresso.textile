@@ -2,6 +2,7 @@
 layout: project-tmtheme
 title: mkhl/espresso-tutti-colori.tmtheme @ GitHub
 github-project: espresso-tutti-colori.tmtheme
+project-copy: Copyright &copy; 2009
 project-name: Espresso.tmTheme
 project-description: An Espresso-lookalike Theme for TextMate
 project-authors:

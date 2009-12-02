@@ -2,6 +2,7 @@
 layout: project-tmtheme
 title: mkhl/github.tmtheme @ GitHub
 github-project: github.tmtheme
+project-copy: Copyright &copy; 2008
 project-name: GitHub.tmTheme
 project-description: A Github Theme for Textmate
 ---
