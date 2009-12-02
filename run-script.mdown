@@ -1,0 +1,25 @@
+---
+layout: project-hgs
+title: mkhl/run-script.hgs @ GitHub
+github-project: run-script.hgs
+project-copy: Copyright &copy; 2009
+project-name: RunScript.hgs
+project-description: A Quick Search Box plugin for running scripts
+---
+
+A [Google Quick Search Box][qsb] plugin that adds support for running
+shell script and AppleScript.
+
+[qsb]: http://code.google.com/p/qsb-mac/ "Google Quick Search Box"
+
+### Usage:
+
+* Invoke QSB.
+* Type the script you want to run.
+  _[Hint: To get a text object, type an initial space.]_
+* *Tab* into the resulting text object.
+* Choose one of the provided actions:
+    * "Run Shell Script" will run the script in the background.
+    * "Run in Terminal" will run the script in a new `Terminal.app` window.
+    * "Run AppleScript" will run the script as AppleScript in the background.
+* *Enter* to invoke the selected action.

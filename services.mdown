@@ -1,0 +1,26 @@
+---
+layout: project-hgs
+title: mkhl/services.hgs @ GitHub
+github-project: services.hgs
+project-copy: Copyright &copy; 2009
+project-name: Services.hgs
+project-description: A Quick Search Box plugin for accessing the Services menu
+---
+
+A [Google Quick Search Box][qsb] plugin that adds support for accessing
+the [Services menu][services-menu].
+
+[qsb]: http://code.google.com/p/qsb-mac/ "Google Quick Search Box"
+[services-menu]: http://en.wikipedia.org/wiki/Services_menu
+
+### Usage:
+
+* Invoke QSB.
+* Find an object to perform a service with, like a file, URL, text&hellip;
+* *Tab* into that object.
+* Find the service you want to perform on it.
+* *Enter* to invoke the selected service on the object you provided.
+
+Services will only become available when they can accept the data QSB
+would provide them.  Services that don’t accept input data can of course
+be invoked without providing any.

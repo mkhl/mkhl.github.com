@@ -1,0 +1,23 @@
+---
+layout: project-hgs
+title: mkhl/FastScripts.hgs @ GitHub
+github-project: FastScripts.hgs
+project-copy: Copyright &copy; 2009
+project-name: FastScripts.hgs
+project-description: A Quick Search Box plugin for accessing the FastScripts menu
+project-dependencies:
+  - <a href="http://www.red-sweater.com/fastscripts/">FastScripts</a>
+---
+
+A [Google Quick Search Box][qsb] plugin that adds support for invoking
+scripts form the [FastScripts][] menu.
+
+[qsb]: http://code.google.com/p/qsb-mac/ "Google Quick Search Box"
+[fastscripts]: http://www.red-sweater.com/fastscripts/
+[services-menu]: http://en.wikipedia.org/wiki/Services_menu
+
+### Usage:
+
+* Invoke QSB.
+* Find a script available through the [FastScripts][] menu.
+* *Enter* to invoke the selected script.

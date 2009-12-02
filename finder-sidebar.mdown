@@ -1,0 +1,21 @@
+---
+layout: project-hgs
+title: mkhl/finder-sidebar.hgs @ GitHub
+github-project: finder-sidebar.hgs
+project-copy: Copyright &copy; 2009
+project-name: FinderSidebar.hgs
+project-description: A Quick Search Box plugin for accessing your Finder sidebar
+---
+
+A [Google Quick Search Box][qsb] plugin that adds support for accessing
+items in the sidebar of your [Finder][].
+
+[qsb]: http://code.google.com/p/qsb-mac/ "Google Quick Search Box"
+[finder]: http://www.apple.com/macosx/what-is-macosx/dock-and-finder.html
+
+### Usage:
+
+* Invoke QSB.
+* Find a file or folder present in your Finder sidebar.
+* *Enter* to open the selected item, or *Tab* to examine its contents.
+

@@ -1,0 +1,25 @@
+---
+layout: project-hgs
+title: mkhl/monocle.hgs @ GitHub
+github-project: monocle.hgs
+project-copy: Copyright &copy; 2009
+project-name: Monocle.hgs
+project-description: A Quick Search Box plugin for using Monocle search engines
+project-dependencies:
+  - <a href="http://wafflesoftware.net/monocle/">Monocle</a>
+---
+
+A [Google Quick Search Box][qsb] plugin that adds support for using
+the search engines configured for [Monocle][].
+
+[qsb]: http://code.google.com/p/qsb-mac/ "Google Quick Search Box"
+[monocle]: http://wafflesoftware.net/monocle/
+[services-menu]: http://en.wikipedia.org/wiki/Services_menu
+
+### Usage:
+
+* Invoke QSB.
+* Find a search engine you have configured for [Monocle][].
+* *Tab* into that search engine object.
+* Type a phrase to search for with the selected engine.
+* *Enter* to invoke the selected service on the object you provided.

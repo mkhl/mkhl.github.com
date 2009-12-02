@@ -1,0 +1,20 @@
+---
+layout: project-hgs
+title: mkhl/smart-folders.hgs @ GitHub
+github-project: smart-folders.hgs
+project-copy: Copyright &copy; 2009
+project-name: SmartFolders.hgs
+project-description: A Quick Search Box plugin for accessing Smart Folders
+---
+
+A [Google Quick Search Box][qsb] plugin that adds support for accessing
+[Smart Folders][smart-folders].
+
+[qsb]: http://code.google.com/p/qsb-mac/ "Google Quick Search Box"
+[smart-folders]: http://en.wikipedia.org/wiki/Smart_folder#Mac_OS_X
+
+### Usage:
+
+* Invoke QSB.
+* Find a smart folder you have configured for Spotlight.
+* *Enter* to open the selected item, or *Tab* to examine its contents.

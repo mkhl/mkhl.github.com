@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+  {% include meta.html %}
+  <title>{{ page.title }}</title>
+  {% include stylesheets.html %}
+  {% include scripts.html %}
+</head>
+<body>
+  {% include github-badge.html %}
+  <div id="header" class="">
+    <hr class="space" />
+    <div class="center">
+      <h1>
+        <a href="http://github.com/{{ site.username }}/{{ page.github-project }}">{{ page.project-name }}</a> 
+      </h1>
+      <p class="quiet">
+        {{ page.project-description }}
+        by <a href="http://{{ site.username }}.github.com/">{{ site.author }}</a>
+      </p>
+    </div>
+    <hr class="space" />
+    <hr />
+  </div>
+  <div class="container">
+    <hr class="space" />
+    <div id="content" class="prepend-1 span-21">
+      <div id="body">
+        {{ content }}
+        <hr />
+        <div>
+          <h3>Installation</h3>
+          <h4>Precompiled Binary</h4>
+          <p>Copy the bundle <code>{{ page.project-name }}</code> into your <code>~/Library/Application Support/Google/Quick Search Box/PlugIns</code> folder, then restart Quick Search Box.</p>
+          <h4>Building from Source</h4>
+          <p>See the section &ldquo;Building&rdquo; of <a href="http://github.com/{{ site.username }}/{{ page.github-project }}#readme">the project documentation</a> for instructions.</p>
+        </div>
+        <hr />
+        <div class="span-10">
+          <div>
+            <h3>Contact</h3>
+            <p>{{ site.contact }}</p>
+          </div>
+          <div>
+            <h3>Dependencies</h3>
+            <ul>
+              {% for dep in page.project-dependencies %}
+              <li>{{ dep }}</li>
+              {% endfor %}
+              <li><a href="http://code.google.com/p/qsb-mac/">Google Quick Search Box</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="prepend-1 span-10 last">
+          <div>
+            <h3>License</h3>
+            <p>{{ page.project-copy }} {{ site.author }}; {% include mit-license.html %}.</p>
+          </div>
+          <div>
+            <h3>Authors</h3>
+            <p>
+              {% for author in page.project-authors %}
+              {{ author }}<br />
+              {% endfor %}
+              {{ site.contact }}
+            </p>
+          </div>
+        </div>
+        <hr />
+        <div>
+          <h3>Download</h3>
+          <p><strong>Precompiled binaries are available from <a href="http://github.com/{{ site.username }}/{{ page.github-project }}/downloads">the downloads page</a>.</strong></p>
+          <p>
+            You can download the source code in either a
+            <a href="http://github.com/{{ site.username }}/{{ page.github-project }}/zipball/master">zip</a>
+            or a
+            <a href="http://github.com/{{ site.username }}/{{ page.github-project }}/tarball/master">tar</a>
+            archive.
+            <br />
+            You can also clone the project with <a href="http://git-scm.com">Git</a> by running:
+          </p>
+          <pre>$ git clone git://github.com/{{ site.username }}/{{ page.github-project }}</pre>
+          <p>
+            Browse the source on GitHub: <a href="http://github.com/{{ site.username }}/{{ page.github-project }}">{{ site.username }}/{{ page.github-project }}</a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <hr />
+    <div id="footer" class="prepend-1 span-21 last">
+      <p class="quiet small">
+        Copyright &copy; 2008&ndash;{{ site.time | date: "%Y" }} {{ site.author }}.
+        {% include license.html %}<br />
+        {% include thanks.html %}<br />
+        Last Visit by the Magical Website Fairy: {{ site.time | date: "%d%b%Y, %H:%M %Z" }}.
+      </p>
+    </div>
+  </div>
+</body>
+</html>
