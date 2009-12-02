@@ -39,16 +39,27 @@ p. Martin believes that "less is more":less-is-more, that "worse is better":wors
 
 h3. Elsewhere
 
-p. %(pull-2 span-2 right small quiet)*Email*%                       %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
-   %(pull-2 span-2 right small quiet)*Location*%                    Germany
-   %(pull-2 span-2 right small quiet)*Jabber*%                      %(email)znegva.xhruy@tznvy.pbz%
-   %(pull-2 span-2 right small quiet)*IRC(Internet Relay Chat)*%    perdix on "Freenode":irc-freenode
-   %(pull-2 span-2 right small quiet)*Twitter*%                     "@mkhl":twitter
-   %(pull-2 span-2 right small quiet)*BitBucket*%                   "mkhl":bitbucket
-   %(pull-2 span-2 right small quiet)*GitHub*%                      "mkhl":github
-   %(pull-2 span-2 right small quiet)*Google*%                      "martin.kuehl":google-code
-   %(pull-2 span-2 right small quiet)*Ohloh*%                       "mkhl":ohloh
-   %(pull-2 span-2 right small quiet)*Soup*%                        "mkhl":soup
+p(pull-2 span-2 right small lower loud). *Email*
+*Location*
+*Jabber*
+*IRC(Internet Relay Chat)*
+*Twitter*
+*BitBucket*
+*GitHub*
+*Google*
+*Ohloh*
+*Soup*
+
+p. %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
+Germany
+%(email)znegva.xhruy@tznvy.pbz%
+perdix on "Freenode":irc-freenode
+"@mkhl":twitter
+"mkhl":bitbucket
+"mkhl":github
+"martin.kuehl":google-code
+"mkhl":ohloh
+"mkhl":soup
 
 [irc-freenode]irc://irc.freenode.net
 [twitter]http://twitter.com/mkhl
