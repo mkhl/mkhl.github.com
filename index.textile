@@ -74,7 +74,7 @@ perdix on "Freenode":irc-freenode
 <hr />
 
 
-<div class="span-6">
+<div class="span-7">
 
 h3. Contribution
 
@@ -108,7 +108,7 @@ h3. Contribution
 
 </div>
 
-<div class="prepend-1 span-6">
+<div class="span-7">
 
 h3. Inspiration
 
@@ -130,7 +130,7 @@ h3. Inspiration
 
 </div>
 
-<div class="prepend-1 span-7 last">
+<div class="span-7 last">
 
 h3. Repositories
 
