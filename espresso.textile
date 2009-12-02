@@ -1,102 +1,13 @@
 ---
-layout: project
+layout: project-tmtheme
 title: mkhl/espresso-tutti-colori.tmtheme @ GitHub
-project-name: Espresso.tmTheme
-project-author: Martin Kühl
-project-contact: Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
-project-description: An Espresso-lookalike Theme for TextMate
-github-user: mkhl
 github-project: espresso-tutti-colori.tmtheme
+project-name: Espresso.tmTheme
+project-description: An Espresso-lookalike Theme for TextMate
+project-authors:
+  - MacRabbit &lt;<span class="email"><n uers="znvygb:fhccbeg@znpenoovg.pbz">fhccbeg@znpenoovg.pbz</n></span>&gt;
 ---
 
 I really like the default "Espresso":espresso colors, so I created a theme from them to keep me warm while the amount of Sugar for it increases to comfortable levels ;-)
 
 [espresso]http://macrabbit.com/espresso
-
-<hr />
-
-<div class="span-10">
-
-<div>
-
-h3. License
-
-Copyright (c) 2009 {{ page.project-author }}; {% include mit-license.html %}.
-
-</div>
-
-<div>
-
-h3. Authors
-
-MacRabbit %(email)<n uers="znvygb:fhccbeg@znpenoovg.pbz">fhccbeg@znpenoovg.pbz</n>%
-{{ page.project-contact }}
-
-</div>
-
-<div>
-
-h3. Contact
-
-{{ page.project-contact }}
-
-</div>
-
-</div>
-
-<div class="prepend-1 span-10 last">
-
-<div>
-
-h3. Installation
-
-Just double-click or @open@ the @{{ page.project-name }}@ file and TextMate will take care of installing it for you.
-
-</div>
-
-<div>
-
-h3. Dependencies
-
-* "TextMate":textmate
-  <br />
-
-[textmate]http://macromates.com/
-
-</div>
-
-<div>
-
-h3. Screenshots
-
-<a href="#screenshot-javascript" class="fancy">JavaScript</a> <a href="#screenshot-perl" class="fancy">Perl</a> <a href="#screenshot-python" class="fancy">Python</a> <a href="#screenshot-ruby" class="fancy">Ruby</a> <a href="#screenshot-html" class="fancy">HTML</a>
-
-<div id="screenshot-perl" class="hide">
-    !http://content.screencast.com/users/mkhl/folders/Jing/media/435569cb-a856-4c5d-bd59-14ff24d85d4b/00000035.png(Perl highlighting with Espresso)!
-    <p>Perl highlighting with Espresso. Source: "Mr":mr-source</p>
-</div>
-<div id="screenshot-python" class="hide">
-    !http://content.screencast.com/users/mkhl/folders/Jing/media/35328aa3-057b-4781-aef6-cd8fd2886623/00000034.png(Python highlighting with Espresso)!
-    <p>Python highlighting with Espresso. Source: "Asciidoc":asciidoc-source</p>
-</div>
-<div id="screenshot-ruby" class="hide">
-    !http://content.screencast.com/users/mkhl/folders/Jing/media/27244b51-78ff-493f-a971-096e7a5fabaa/00000036.png(Ruby highlighting with Espresso)!
-    <p>Ruby highlighting with Espresso. Source: "Gist":gist-source</p>
-</div>
-<div id="screenshot-javascript" class="hide">
-    !http://content.screencast.com/users/mkhl/folders/Jing/media/e0e7cccc-b104-4f4c-bb70-b16616eb47ae/00000033.png(JavaScript highlighting with Espresso)!
-    <p>JavaScript highlighting with Espresso. Source: "FancyZoom":fancyzoom-source</p>
-</div>
-<div id="screenshot-html" class="hide">
-    !http://content.screencast.com/users/mkhl/folders/Jing/media/194292ed-7992-46a9-9e26-fcf7635accdc/00000037.png(HTML highlighting with Espresso)!
-    <p>HTML highlighting with Espresso.</p>
-</div>
-
-[asciidoc-source]http://www.methods.co.nz/asciidoc/
-[fancyzoom-source]http://github.com/jnunemaker/fancy-zoom
-[gist-source]http://github.com/defunkt/gist/
-[mr-source]http://kitenet.net/~joey/code/mr/
-
-</div>
-
-</div>

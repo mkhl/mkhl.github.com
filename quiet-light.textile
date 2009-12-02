@@ -1,12 +1,11 @@
 ---
-layout: project
+layout: project-tmtheme
 title: mkhl/quiet-light.tmtheme @ GitHub
-project-name: QuietLight.tmTheme
-project-author: Martin Kühl
-project-contact: Martin Kühl %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
-project-description: The Quiet Light theme, ported to TextMate
-github-user: mkhl
 github-project: quiet-light.tmtheme
+project-name: QuietLight.tmTheme
+project-description: The Quiet Light theme, ported to TextMate
+project-authors:
+  - Ian Beck &lt;<span class="email"><n uers="uggc://barpenlba.pbz/nobhg/pbagnpg/">barpenlba.pbz/nobhg/pbagnpg/</n></span>&gt;
 ---
 
 "Quiet Light":quiet-light is a light, peaceful theme for "Espresso":espresso, by "Ian Beck":onecrayon, designed to not only help you read your code, but also enjoy it.  This project is a port of that theme to "TextMate":textmate.
@@ -15,57 +14,3 @@ github-project: quiet-light.tmtheme
 [espresso]http://macrabbit.com/espresso
 [onecrayon]http://onecrayon.com/
 [textmate]http://macromates.com/
-
-<hr />
-
-<div class="span-10">
-
-<div>
-
-h3. License
-
-Copyright (c) 2009 {{ page.project-author }}; {% include mit-license.html %}.
-
-</div>
-
-<div>
-
-h3. Authors
-
-Ian Beck %(email)<n uers="uggc://barpenlba.pbz/nobhg/pbagnpg/">barpenlba.pbz/nobhg/pbagnpg/</n>%
-{{ page.project-contact }}
-
-</div>
-
-<div>
-
-h3. Contact
-
-{{ page.project-contact }}
-
-</div>
-
-</div>
-
-<div class="prepend-1 span-10 last">
-
-<div>
-
-h3. Installation
-
-Just double-click or @open@ the @{{ page.project-name }}@ file and TextMate will take care of installing it for you.
-
-</div>
-
-<div>
-
-h3. Dependencies
-
-* "TextMate":textmate
-  <br />
-
-[textmate]http://macromates.com/
-
-</div>
-
-</div>
