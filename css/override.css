@@ -1,3 +1,5 @@
+/* Override Transformations */
+.lower {text-transform:lowercase;}
 /* Override Colours */
 body {background:#f9f9f9;}
 caption {background:#e8e8e8;}
@@ -15,7 +17,6 @@ ul, ol {margin-left:0;padding-left:0;list-style-position: outside;}
 /* Override Definition Lists */
 dl.compact dd {margin:0;}
 dl.compact dd p {margin:0;}
-.small {text-transform:lowercase;}
 /* Bullets on Headings */
 h1:before {content:"» ";margin-left:-0.75em;}
 /* Override Alignment */
