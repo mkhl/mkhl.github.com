@@ -11,7 +11,7 @@ hr.space {background:#f9f9f9;color:#f9f9f9;}
 /* Override Font Stacks */
 body {font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", Arial, Helvetica, sans-serif;}
 h1, h2, h3, h4, h5, h6 {font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;}
-pre, code, tt, kbd {font-family:Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, Courier, monospace;}
+pre, code, tt, kbd {font-family:"Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, Courier, monospace;}
 /* Override Bullets */
 ul, ol {margin-left:0;padding-left:0;list-style-position: outside;}
 /* Override Definition Lists */
@@ -26,12 +26,20 @@ h1:before {content:"» ";margin-left:-0.75em;}
 .center {text-align:center;}
 /* Override Code */
 pre {
-	border:1px solid;
-	border-left-width:20px;
-	margin:1.5em 0;
-	padding:6px 4px 4px 6px;
-	overflow:auto;
-	-moz-border-radius:4px;
+   border:1px solid;
+   margin:1.5em 0;
+   padding: 4px 4px 4px 16px;
+   overflow:auto;
+   -moz-border-radius:4px;
+   -webkit-border-radius:4px;
+}
+code {
+   border:1px solid;
+   padding: 2px;
+   overflow:auto;
+   vertical-align: 1px;
+   -moz-border-radius:4px;
+   -webkit-border-radius:4px;
 }
 pre, code {color:#333;background:#eee;border-color:#bbb;}
 /* Rounded Corners */
