@@ -120,7 +120,7 @@ h3. Inspiration
 * "Scheme":scheme
 * "Smalltalk":smalltalk
 
-[humane-interface]http://rchi.raskincenter.org/index.php?title=Core_Principles
+[humane-interface]http://nitpicker.pbworks.com/The+Humane+Interface
 [io]http://iolanguage.com/
 [jquery]http://jquery.com/
 [plan-9]http://plan9.bell-labs.com/plan9/
