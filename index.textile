@@ -113,16 +113,20 @@ h3. Contribution
 h3. Inspiration
 
 * "The Humane Interface":humane-interface
+* "aoeui":aoeui
 * "Io":io
 * "jQuery":jquery
+* "Morphic":morphic
 * "Plan 9":plan-9
 * "Quicksilver":quicksilver
 * "Scheme":scheme
 * "Smalltalk":smalltalk
 
 [humane-interface]http://nitpicker.pbworks.com/The+Humane+Interface
+[aoeui]http://aoeui.googlecode.com/
 [io]http://iolanguage.com/
 [jquery]http://jquery.com/
+[morphic]http://wiki.squeak.org/squeak/30
 [plan-9]http://plan9.bell-labs.com/plan9/
 [quicksilver]http://docs.blacktree.com/quicksilver/what_is_quicksilver
 [scheme]http://schemers.org/
