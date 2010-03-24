@@ -15,28 +15,29 @@ pre, code, tt, kbd {font-family:"Andale Mono WT", "Andale Mono", "Lucida Console
 /* Bullets on Headings */
 h1:before {content:"» ";margin-left:-0.8em;}
 /* Override Alignment */
-#download {float: right;}
+#download {float:right;}
 .left {text-align:left;}
 .right {text-align:right;}
 .center {text-align:center;}
+.justify {text-align:justify;}
 /* Override Lists */
 ul, ol {padding-left:0;list-style-position:outside;}
 /* Override Code */
 pre {
-   border:1px solid;
-   margin:1.5em 0;
-   padding: 4px 4px 4px 16px;
-   overflow:auto;
-   -moz-border-radius:4px;
-   -webkit-border-radius:4px;
+    border:1px solid;
+    margin:1.5em 0;
+    padding: 4px 4px 4px 16px;
+    overflow:auto;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
 }
 code {
-   border:1px solid;
-   padding: 2px;
-   overflow:auto;
-   vertical-align: 1px;
-   -moz-border-radius:4px;
-   -webkit-border-radius:4px;
+    border:1px solid;
+    padding: 2px;
+    overflow:auto;
+    vertical-align: 1px;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
 }
 pre, code {color:#333;background:#eee;border-color:#bbb;}
 /* Rounded Corners */
