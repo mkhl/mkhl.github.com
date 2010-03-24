@@ -78,32 +78,29 @@ perdix on "Freenode":irc-freenode
 
 h3. Contribution
 
+* "Homebrew":homebrew
 * "Quick Search Box":qsb
-* "Espresso":espresso Sugars ["1":bash-sugar, "2":textile-sugar]
-* "TextMate":textmate Bundles ["1":shellscript-bundle, "2":applescript-bundle, "3":maude-bundle]
+* "Emacs":emacs Libraries
+* "Espresso":espresso Sugars
+* "TextMate":textmate Bundles
 * "Rush":rush
 * "Hets":hets
 * "Nu":nu
 * "Rubinius":rubinius
 * "Samba 4":samba4
 * "SXEmacs":sxemacs
-* "PAbbrev":pabbrev
 
+[homebrew]http://github.com/mxcl/homebrew/
 [qsb]http://code.google.com/p/qsb-mac/
+[emacs]http://www.gnu.org/software/emacs/
 [espresso]http://macrabbit.com/espresso/
-[bash-sugar]http://github.com/mkhl/bash.sugar
-[textile-sugar]http://github.com/mkhl/textile.sugar
 [textmate]http://macromates.com/
-[shellscript-bundle]http://github.com/mkhl/shellscript.tmbundle
-[applescript-bundle]http://github.com/mkhl/applescript.tmbundle
-[maude-bundle]http://github.com/mkhl/maude.tmbundle
 [rush]http://rush.heroku.com/
 [hets]http://www.informatik.uni-bremen.de/cofi/hets/
 [nu]http://programming.nu/
 [rubinius]http://rubini.us/
 [samba4]http://samba.org/samba/devel/
 [sxemacs]http://sxemacs.org/
-[pabbrev]http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html
 
 
 </div>
