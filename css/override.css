@@ -19,6 +19,8 @@ h1:before {content:"» ";margin-left:-0.8em;}
 .left {text-align:left;}
 .right {text-align:right;}
 .center {text-align:center;}
+/* Override Lists */
+ul, ol {padding-left:0;list-style-position:outside;}
 /* Override Code */
 pre {
    border:1px solid;
