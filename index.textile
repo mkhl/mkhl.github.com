@@ -4,7 +4,7 @@ title: mkhl.github.com
 subtitle: Martin K&uuml;hl’s GitHub page&mdash;now with more bullet points
 ---
 
-<div class="span-12">
+<div class="span-11">
 
 h2. About
 
@@ -33,7 +33,7 @@ p. Martin believes that "less is more":less-is-more, that "worse is better":wors
 
 </div>
 
-<div class="prepend-2 span-7 last">
+<div class="prepend-3 span-7 last">
 
 <hr class="space" />
 
