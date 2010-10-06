@@ -110,6 +110,7 @@ h3. Contribution
 h3. Inspiration
 
 * "The Humane Interface":humane-interface
+* "Acme":acme
 * "aoeui":aoeui
 * "Io":io
 * "jQuery":jquery
@@ -120,6 +121,7 @@ h3. Inspiration
 * "Smalltalk":smalltalk
 
 [humane-interface]http://nitpicker.pbworks.com/The+Humane+Interface
+[acme]http://cm.bell-labs.com/sys/doc/acme.html
 [aoeui]http://aoeui.googlecode.com/
 [io]http://iolanguage.com/
 [jquery]http://jquery.com/
