@@ -4,7 +4,7 @@ title: mkhl.github.com
 subtitle: Martin K&uuml;hl’s tiny webpage&mdash;at large and&hellip; hungry?
 ---
 
-<div class="span-11">
+<div class="span-13 append-1">
 
 h2. About
 
@@ -33,7 +33,7 @@ p. He believes that "less is more":less-is-more, that "worse is better":worse-is
 
 </div>
 
-<div class="prepend-3 span-7 last">
+<div class="span-7 last">
 
 <hr class="space" />
 
