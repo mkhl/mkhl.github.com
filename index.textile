@@ -39,27 +39,15 @@ p. Martin believes that "less is more":less-is-more, that "worse is better":wors
 
 h3. Elsewhere
 
-p(pull-2 span-2 right small lower loud). *Email*
-*Location*
-*Jabber*
-*IRC(Internet Relay Chat)*
-*Twitter*
-*BitBucket*
-*GitHub*
-*Google*
-*Ohloh*
-*Soup*
-
 p. %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
-Germany
-%(email)znegva.xhruy@tznvy.pbz%
+Chemnitz, Germany
 perdix on "Freenode":irc-freenode
-"@mkhl":twitter
-"mkhl":bitbucket
-"mkhl":github
-"martin.kuehl":google-code
-"mkhl":ohloh
-"mkhl":soup
+"mkhl on Twitter":twitter
+"mkhl on Bitbucket":bitbucket
+"mkhl on GitHub":github
+"martin.kuehl on Google Code":google-code
+"mkhl on Ohloh":ohloh
+"mkhl on Soup.io":soup
 
 [irc-freenode]irc://irc.freenode.net
 [twitter]http://twitter.com/mkhl
