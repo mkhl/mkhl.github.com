@@ -1,7 +1,7 @@
 ---
 layout: default
 title: mkhl.github.com
-subtitle: Martin K&uuml;hl’s GitHub page&mdash;now with more bullet points
+subtitle: Martin K&uuml;hl’s tiny webpage&mdash;at large and&hellip; hungry?
 ---
 
 <div class="span-11">
