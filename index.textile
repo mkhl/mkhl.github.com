@@ -40,8 +40,8 @@ p. He believes that "less is more":less-is-more, that "worse is better":worse-is
 h3. Elsewhere
 
 p. %(email)<n uers="znvygb:znegva.xhruy@tznvy.pbz">znegva.xhruy@tznvy.pbz</n>%
-Chemnitz, Germany
-perdix on "Freenode":irc-freenode
+Leipzig, Germany
+mkhl on "Freenode":irc-freenode
 "mkhl on Twitter":twitter
 "mkhl on Bitbucket":bitbucket
 "mkhl on GitHub":github
